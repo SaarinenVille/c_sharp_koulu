@@ -1,0 +1,15 @@
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\OmaNimi\OmaNimi\bin\Debug\net7.0\OmaNimi.exe
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\OmaNimi\OmaNimi\bin\Debug\net7.0\OmaNimi.deps.json
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\OmaNimi\OmaNimi\bin\Debug\net7.0\OmaNimi.runtimeconfig.json
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\OmaNimi\OmaNimi\bin\Debug\net7.0\OmaNimi.dll
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\OmaNimi\OmaNimi\bin\Debug\net7.0\OmaNimi.pdb
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\OmaNimi\OmaNimi\obj\Debug\net7.0\OmaNimi.csproj.AssemblyReference.cache
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\OmaNimi\OmaNimi\obj\Debug\net7.0\OmaNimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\OmaNimi\OmaNimi\obj\Debug\net7.0\OmaNimi.AssemblyInfoInputs.cache
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\OmaNimi\OmaNimi\obj\Debug\net7.0\OmaNimi.AssemblyInfo.cs
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\OmaNimi\OmaNimi\obj\Debug\net7.0\OmaNimi.csproj.CoreCompileInputs.cache
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\OmaNimi\OmaNimi\obj\Debug\net7.0\OmaNimi.dll
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\OmaNimi\OmaNimi\obj\Debug\net7.0\refint\OmaNimi.dll
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\OmaNimi\OmaNimi\obj\Debug\net7.0\OmaNimi.pdb
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\OmaNimi\OmaNimi\obj\Debug\net7.0\OmaNimi.genruntimeconfig.cache
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\OmaNimi\OmaNimi\obj\Debug\net7.0\ref\OmaNimi.dll
