@@ -1,0 +1,15 @@
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\YksiNumerot\YksiNumerot\bin\Debug\net7.0\YksiNumerot.exe
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\YksiNumerot\YksiNumerot\bin\Debug\net7.0\YksiNumerot.deps.json
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\YksiNumerot\YksiNumerot\bin\Debug\net7.0\YksiNumerot.runtimeconfig.json
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\YksiNumerot\YksiNumerot\bin\Debug\net7.0\YksiNumerot.dll
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\YksiNumerot\YksiNumerot\bin\Debug\net7.0\YksiNumerot.pdb
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\YksiNumerot.csproj.AssemblyReference.cache
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\YksiNumerot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\YksiNumerot.AssemblyInfoInputs.cache
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\YksiNumerot.AssemblyInfo.cs
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\YksiNumerot.csproj.CoreCompileInputs.cache
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\YksiNumerot.dll
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\refint\YksiNumerot.dll
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\YksiNumerot.pdb
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\YksiNumerot.genruntimeconfig.cache
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\ref\YksiNumerot.dll
