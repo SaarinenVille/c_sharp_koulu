@@ -1,0 +1,15 @@
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\SyotaNimi\SyotaNimi\bin\Debug\net7.0\SyotaNimi.exe
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\SyotaNimi\SyotaNimi\bin\Debug\net7.0\SyotaNimi.deps.json
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\SyotaNimi\SyotaNimi\bin\Debug\net7.0\SyotaNimi.runtimeconfig.json
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\SyotaNimi\SyotaNimi\bin\Debug\net7.0\SyotaNimi.dll
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\SyotaNimi\SyotaNimi\bin\Debug\net7.0\SyotaNimi.pdb
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\SyotaNimi\SyotaNimi\obj\Debug\net7.0\SyotaNimi.csproj.AssemblyReference.cache
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\SyotaNimi\SyotaNimi\obj\Debug\net7.0\SyotaNimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\SyotaNimi\SyotaNimi\obj\Debug\net7.0\SyotaNimi.AssemblyInfoInputs.cache
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\SyotaNimi\SyotaNimi\obj\Debug\net7.0\SyotaNimi.AssemblyInfo.cs
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\SyotaNimi\SyotaNimi\obj\Debug\net7.0\SyotaNimi.csproj.CoreCompileInputs.cache
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\SyotaNimi\SyotaNimi\obj\Debug\net7.0\SyotaNimi.dll
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\SyotaNimi\SyotaNimi\obj\Debug\net7.0\refint\SyotaNimi.dll
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\SyotaNimi\SyotaNimi\obj\Debug\net7.0\SyotaNimi.pdb
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\SyotaNimi\SyotaNimi\obj\Debug\net7.0\SyotaNimi.genruntimeconfig.cache
+C:\Opiskelu\Keuda\Ohjelmointi\repositiot\c_sharp_koulu\SyotaNimi\SyotaNimi\obj\Debug\net7.0\ref\SyotaNimi.dll
