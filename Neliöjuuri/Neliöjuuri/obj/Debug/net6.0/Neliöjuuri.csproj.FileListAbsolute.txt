@@ -1,0 +1,15 @@
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Neliöjuuri\Neliöjuuri\bin\Debug\net6.0\Neliöjuuri.exe
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Neliöjuuri\Neliöjuuri\bin\Debug\net6.0\Neliöjuuri.deps.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Neliöjuuri\Neliöjuuri\bin\Debug\net6.0\Neliöjuuri.runtimeconfig.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Neliöjuuri\Neliöjuuri\bin\Debug\net6.0\Neliöjuuri.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Neliöjuuri\Neliöjuuri\bin\Debug\net6.0\Neliöjuuri.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Neliöjuuri\Neliöjuuri\obj\Debug\net6.0\Neliöjuuri.csproj.AssemblyReference.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Neliöjuuri\Neliöjuuri\obj\Debug\net6.0\Neliöjuuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Neliöjuuri\Neliöjuuri\obj\Debug\net6.0\Neliöjuuri.AssemblyInfoInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Neliöjuuri\Neliöjuuri\obj\Debug\net6.0\Neliöjuuri.AssemblyInfo.cs
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Neliöjuuri\Neliöjuuri\obj\Debug\net6.0\Neliöjuuri.csproj.CoreCompileInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Neliöjuuri\Neliöjuuri\obj\Debug\net6.0\Neliöjuuri.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Neliöjuuri\Neliöjuuri\obj\Debug\net6.0\refint\Neliöjuuri.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Neliöjuuri\Neliöjuuri\obj\Debug\net6.0\Neliöjuuri.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Neliöjuuri\Neliöjuuri\obj\Debug\net6.0\Neliöjuuri.genruntimeconfig.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Neliöjuuri\Neliöjuuri\obj\Debug\net6.0\ref\Neliöjuuri.dll
