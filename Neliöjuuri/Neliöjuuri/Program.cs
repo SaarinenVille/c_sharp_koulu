@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-var num1 = 50;
-
-Console.WriteLine(Math.Sqrt(num1));
+int num1 = 50;
+float neliojuuri = (float)Math.Sqrt(num1);
+Console.WriteLine(neliojuuri);
