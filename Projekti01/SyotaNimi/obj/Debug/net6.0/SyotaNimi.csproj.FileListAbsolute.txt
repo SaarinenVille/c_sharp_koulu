@@ -1,0 +1,15 @@
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\SyotaNimi\obj\Debug\net6.0\SyotaNimi.csproj.AssemblyReference.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\SyotaNimi\obj\Debug\net6.0\SyotaNimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\SyotaNimi\obj\Debug\net6.0\SyotaNimi.AssemblyInfoInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\SyotaNimi\obj\Debug\net6.0\SyotaNimi.AssemblyInfo.cs
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\SyotaNimi\obj\Debug\net6.0\SyotaNimi.csproj.CoreCompileInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\SyotaNimi\bin\Debug\net6.0\SyotaNimi.exe
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\SyotaNimi\bin\Debug\net6.0\SyotaNimi.deps.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\SyotaNimi\bin\Debug\net6.0\SyotaNimi.runtimeconfig.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\SyotaNimi\bin\Debug\net6.0\SyotaNimi.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\SyotaNimi\bin\Debug\net6.0\SyotaNimi.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\SyotaNimi\obj\Debug\net6.0\SyotaNimi.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\SyotaNimi\obj\Debug\net6.0\refint\SyotaNimi.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\SyotaNimi\obj\Debug\net6.0\SyotaNimi.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\SyotaNimi\obj\Debug\net6.0\SyotaNimi.genruntimeconfig.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\SyotaNimi\obj\Debug\net6.0\ref\SyotaNimi.dll
