@@ -1,0 +1,15 @@
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\HyvaaPaivaa\bin\Debug\net6.0\HyvaaPaivaa.exe
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\HyvaaPaivaa\bin\Debug\net6.0\HyvaaPaivaa.deps.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\HyvaaPaivaa\bin\Debug\net6.0\HyvaaPaivaa.runtimeconfig.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\HyvaaPaivaa\bin\Debug\net6.0\HyvaaPaivaa.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\HyvaaPaivaa\bin\Debug\net6.0\HyvaaPaivaa.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\HyvaaPaivaa\obj\Debug\net6.0\HyvaaPaivaa.csproj.AssemblyReference.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\HyvaaPaivaa\obj\Debug\net6.0\HyvaaPaivaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\HyvaaPaivaa\obj\Debug\net6.0\HyvaaPaivaa.AssemblyInfoInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\HyvaaPaivaa\obj\Debug\net6.0\HyvaaPaivaa.AssemblyInfo.cs
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\HyvaaPaivaa\obj\Debug\net6.0\HyvaaPaivaa.csproj.CoreCompileInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\HyvaaPaivaa\obj\Debug\net6.0\HyvaaPaivaa.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\HyvaaPaivaa\obj\Debug\net6.0\refint\HyvaaPaivaa.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\HyvaaPaivaa\obj\Debug\net6.0\HyvaaPaivaa.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\HyvaaPaivaa\obj\Debug\net6.0\HyvaaPaivaa.genruntimeconfig.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Projekti01\HyvaaPaivaa\obj\Debug\net6.0\ref\HyvaaPaivaa.dll
