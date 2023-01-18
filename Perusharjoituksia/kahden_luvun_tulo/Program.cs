@@ -1,6 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿internal class Program
+{
+    private static void Main(string[] args)
+    {
+        int l1 = 5;
+        int l2 = 8;
 
-int l1 = 5;
-int l2 = 8;
-
-Console.WriteLine(l1 * l2);
+        Console.WriteLine(l1 * l2);
+    }
+}
