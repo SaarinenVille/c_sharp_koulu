@@ -1,0 +1,15 @@
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_summa\bin\Debug\net6.0\kahden_luvun_summa.exe
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_summa\bin\Debug\net6.0\kahden_luvun_summa.deps.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_summa\bin\Debug\net6.0\kahden_luvun_summa.runtimeconfig.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_summa\bin\Debug\net6.0\kahden_luvun_summa.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_summa\bin\Debug\net6.0\kahden_luvun_summa.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_summa\obj\Debug\net6.0\kahden_luvun_summa.csproj.AssemblyReference.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_summa\obj\Debug\net6.0\kahden_luvun_summa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_summa\obj\Debug\net6.0\kahden_luvun_summa.AssemblyInfoInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_summa\obj\Debug\net6.0\kahden_luvun_summa.AssemblyInfo.cs
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_summa\obj\Debug\net6.0\kahden_luvun_summa.csproj.CoreCompileInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_summa\obj\Debug\net6.0\kahden_luvun_summa.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_summa\obj\Debug\net6.0\refint\kahden_luvun_summa.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_summa\obj\Debug\net6.0\kahden_luvun_summa.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_summa\obj\Debug\net6.0\kahden_luvun_summa.genruntimeconfig.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_summa\obj\Debug\net6.0\ref\kahden_luvun_summa.dll

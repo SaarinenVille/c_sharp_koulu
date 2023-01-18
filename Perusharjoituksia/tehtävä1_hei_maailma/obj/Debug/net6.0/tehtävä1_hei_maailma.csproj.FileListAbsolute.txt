@@ -1,0 +1,15 @@
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\tehtävä1_hei_maailma\bin\Debug\net6.0\tehtävä1_hei_maailma.exe
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\tehtävä1_hei_maailma\bin\Debug\net6.0\tehtävä1_hei_maailma.deps.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\tehtävä1_hei_maailma\bin\Debug\net6.0\tehtävä1_hei_maailma.runtimeconfig.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\tehtävä1_hei_maailma\bin\Debug\net6.0\tehtävä1_hei_maailma.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\tehtävä1_hei_maailma\bin\Debug\net6.0\tehtävä1_hei_maailma.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\tehtävä1_hei_maailma\obj\Debug\net6.0\tehtävä1_hei_maailma.csproj.AssemblyReference.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\tehtävä1_hei_maailma\obj\Debug\net6.0\tehtävä1_hei_maailma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\tehtävä1_hei_maailma\obj\Debug\net6.0\tehtävä1_hei_maailma.AssemblyInfoInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\tehtävä1_hei_maailma\obj\Debug\net6.0\tehtävä1_hei_maailma.AssemblyInfo.cs
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\tehtävä1_hei_maailma\obj\Debug\net6.0\tehtävä1_hei_maailma.csproj.CoreCompileInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\tehtävä1_hei_maailma\obj\Debug\net6.0\tehtävä1_hei_maailma.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\tehtävä1_hei_maailma\obj\Debug\net6.0\refint\tehtävä1_hei_maailma.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\tehtävä1_hei_maailma\obj\Debug\net6.0\tehtävä1_hei_maailma.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\tehtävä1_hei_maailma\obj\Debug\net6.0\tehtävä1_hei_maailma.genruntimeconfig.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\tehtävä1_hei_maailma\obj\Debug\net6.0\ref\tehtävä1_hei_maailma.dll

@@ -1,0 +1,15 @@
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_vahennys\obj\Debug\net6.0\kahden_luvun_vahennys.csproj.AssemblyReference.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_vahennys\obj\Debug\net6.0\kahden_luvun_vahennys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_vahennys\obj\Debug\net6.0\kahden_luvun_vahennys.AssemblyInfoInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_vahennys\obj\Debug\net6.0\kahden_luvun_vahennys.AssemblyInfo.cs
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_vahennys\obj\Debug\net6.0\kahden_luvun_vahennys.csproj.CoreCompileInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_vahennys\bin\Debug\net6.0\kahden_luvun_vahennys.exe
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_vahennys\bin\Debug\net6.0\kahden_luvun_vahennys.deps.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_vahennys\bin\Debug\net6.0\kahden_luvun_vahennys.runtimeconfig.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_vahennys\bin\Debug\net6.0\kahden_luvun_vahennys.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_vahennys\bin\Debug\net6.0\kahden_luvun_vahennys.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_vahennys\obj\Debug\net6.0\kahden_luvun_vahennys.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_vahennys\obj\Debug\net6.0\refint\kahden_luvun_vahennys.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_vahennys\obj\Debug\net6.0\kahden_luvun_vahennys.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_vahennys\obj\Debug\net6.0\kahden_luvun_vahennys.genruntimeconfig.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_vahennys\obj\Debug\net6.0\ref\kahden_luvun_vahennys.dll

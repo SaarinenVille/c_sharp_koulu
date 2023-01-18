@@ -1,0 +1,15 @@
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_tulo\bin\Debug\net6.0\kahden_luvun_tulo.exe
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_tulo\bin\Debug\net6.0\kahden_luvun_tulo.deps.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_tulo\bin\Debug\net6.0\kahden_luvun_tulo.runtimeconfig.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_tulo\bin\Debug\net6.0\kahden_luvun_tulo.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_tulo\bin\Debug\net6.0\kahden_luvun_tulo.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_tulo\obj\Debug\net6.0\kahden_luvun_tulo.csproj.AssemblyReference.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_tulo\obj\Debug\net6.0\kahden_luvun_tulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_tulo\obj\Debug\net6.0\kahden_luvun_tulo.AssemblyInfoInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_tulo\obj\Debug\net6.0\kahden_luvun_tulo.AssemblyInfo.cs
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_tulo\obj\Debug\net6.0\kahden_luvun_tulo.csproj.CoreCompileInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_tulo\obj\Debug\net6.0\kahden_luvun_tulo.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_tulo\obj\Debug\net6.0\refint\kahden_luvun_tulo.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_tulo\obj\Debug\net6.0\kahden_luvun_tulo.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_tulo\obj\Debug\net6.0\kahden_luvun_tulo.genruntimeconfig.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Perusharjoituksia\kahden_luvun_tulo\obj\Debug\net6.0\ref\kahden_luvun_tulo.dll
