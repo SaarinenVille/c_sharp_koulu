@@ -40,7 +40,10 @@ switch(numero)
         SuurinViidesta();
         break;
     case 5:
-        ValitseSyotto();
+        ValitseSyotto(); 
+        break;
+    case 6:
+        BonusPisteet();
         break;
     default:
         Console.WriteLine("Syötä numero 1-7");
@@ -218,11 +221,32 @@ syotonaloitus:
                 Console.Write("Syötä kokonaisluku: ");
                 kokonaisluku = Int32.Parse(Console.ReadLine());
                 Console.WriteLine("Syötit luvun " + kokonaisluku + ", lopullinen tulos on " + (kokonaisluku + 1));
-                break;   
+                break;
+            case "d":
+                Console.Write("Syötä doubleluku: ");
+                doubleluku = Double.Parse(Console.ReadLine());
+                Console.WriteLine("Syötit luvun " + doubleluku + ", lopullinen tulos on" + (doubleluku + 1));
+                break;
+            case "s":
+                Console.Write("Syötä merkkijono: ");
+                merkkijono = Console.ReadLine();
+                merkkijono += "*";
+                Console.WriteLine("Syötit " + merkkijono);
+                break;
+            default:
+                Console.WriteLine("Syötit jotakin muuta");
+                break;
         }
     }
+}
 
+static void BonusPisteet()
+{
+    int pisteet;
 
+    Console.WriteLine("Ole hyvä ja syötä bonuspisteesi (1-9): ");
+    pisteet = Console.ReadLine();
+    
 }
 
 
