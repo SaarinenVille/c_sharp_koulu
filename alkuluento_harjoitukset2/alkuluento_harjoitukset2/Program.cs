@@ -45,6 +45,9 @@ switch(numero)
     case 6:
         BonusPisteet();
         break;
+    case 7:
+        LukuMuunnos();
+        break;
     default:
         Console.WriteLine("Syötä numero 1-7");
         goto aloitus;
@@ -244,9 +247,178 @@ static void BonusPisteet()
 {
     int pisteet;
 
+bonusalku:
+
     Console.WriteLine("Ole hyvä ja syötä bonuspisteesi (1-9): ");
-    pisteet = Console.ReadLine();
-    
+
+    try
+    {
+        pisteet = Int32.Parse(Console.ReadLine());
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine(ex.Message);
+        Console.WriteLine("Syötit väärän arvon.");
+        goto bonusalku;
+    }
+
+    switch (pisteet)
+    {
+        case 1:
+        case 2:
+        case 3:
+            pisteet *= 10;
+            Console.WriteLine("Sinulle on kertynyt " + pisteet + " bonuspistettä.");
+            break;
+        case 4:
+        case 5:
+        case 6:
+            pisteet *= 100;
+            Console.WriteLine("Sinulle on kertynyt " + pisteet + " bonuspistettä.");
+            break;
+        case 7:
+        case 8:
+        case 9:
+            pisteet *= 1000;
+            Console.WriteLine("Sinulle on kertynyt " + pisteet + " bonuspistettä.");
+            break;
+        default:
+            Console.WriteLine("Höpönpöppöö");
+            goto bonusalku;
+            break;
+    }
 }
+
+    // Ohjelma muuntaa syötetyn luvun (0-999) sanaksi
+
+static void LukuMuunnos()
+{
+    int syotto;    
+    int ykkoset;
+    int poikkeuskymmenet;
+    int kymmenet;
+    int sadat;
+
+    alku:
+
+    Console.WriteLine("Ole hyvä ja syötä luku väliltä 0-999. Ohjelma muuntaa luvun sanaksi");
+
+    try
+    {
+        syotto = Int32.Parse(Console.ReadLine());
+    }
+    catch(Exception ex)
+    {
+        Console.WriteLine(ex.Message);
+        Console.WriteLine("Et syöttänyt kokonaislukua");
+        goto alku;
+    }
+
+    if(syotto > 999 || syotto < 0)
+    {
+        Console.WriteLine("Annoit väärän luvun.");
+        goto alku;
+    }
+    else if(syotto < 10)
+    {
+        ykkoset = syotto;
+
+        switch (ykkoset)
+        {
+            case 0:
+                Console.WriteLine("nolla");
+                break;
+            case 1:
+                Console.WriteLine("yksi");
+                break;
+            case 2:
+                Console.WriteLine("kaksi");
+                break;
+            case 3:
+                Console.WriteLine("kolme");
+                break;
+            case 4:
+                Console.WriteLine("neljä");
+                break;
+            case 5:
+                Console.WriteLine("viisi");
+                break;
+            case 6:
+                Console.WriteLine("kuusi");
+                break;
+            case 7:
+                Console.WriteLine("seitsemän");
+                break;
+            case 8:
+                Console.WriteLine("kahdeksan");
+                break;
+            case 9:
+                Console.WriteLine("yhdeksän");
+                break;
+            default:
+                Console.WriteLine("Väärä syöttö");
+                goto alku;
+        }
+    }
+    else if(syotto < 20)
+    {
+        poikkeuskymmenet = syotto;
+
+        switch (poikkeuskymmenet)
+        {
+            case 10:
+                Console.WriteLine("kymmenen");
+                break;
+            case 11:
+                Console.WriteLine("yksitoista");
+                break;
+            case 12:
+                Console.WriteLine("kaksitoista");
+                break;
+            case 13:
+                Console.WriteLine("kolmetoista");
+                break;
+            case 14:
+                Console.WriteLine("neljätoista");
+                break;
+            case 15:
+                Console.WriteLine("viisitoista");
+                break;
+            case 16:
+                Console.WriteLine("kuusitoista");
+                break;
+            case 17:
+                Console.WriteLine("seitsemäntoista");
+                break;
+            case 18:
+                Console.WriteLine("kahdeksantoista");
+                break;
+            case 19:
+                Console.WriteLine("yhdeksäntoista");
+                break;
+            default:
+                Console.WriteLine("Väärä syöttö");
+                goto alku;
+        }        
+    }
+    else if(syotto < 100)
+    {
+        kymmenet = syotto;
+
+        switch (kymmenet)
+        {
+            case 20:
+                Console.WriteLine("kaksikymmentä");
+                break;
+        }
+    }
+    
+  
+
+
+}
+
+    
+
 
 
