@@ -11,7 +11,7 @@ Console.WriteLine(" ");
 
 Console.WriteLine("1. Laskee yhteen 10 + 5.");
 Console.WriteLine("2. Celsius --> Fahrenheit.");
-Console.WriteLine("3. Lukujen 9 ja 3 peruslaskutoimitukset.");
+Console.WriteLine("3. Lukujen 10 ja 3 peruslaskutoimitukset.");
 Console.WriteLine("4. Jakojäännös kahdesta luvusta.");
 Console.WriteLine("5. Syötä nimesi.");
 Console.WriteLine("6. Kahden syötetyn luvun summa.");
@@ -52,6 +52,12 @@ switch (numero)
     case 6:
         LaskeYhteenSyotto();
         break;
+    case 7:
+        FahrenheitCelsiusSyotto();
+        break;
+    case 8:
+        PerusLaskutSyotto();
+        break;
     default:
         Console.WriteLine("Syötä numero 1-10");
         goto alku;
@@ -76,7 +82,7 @@ static void CelsiusFahrenheit()
 
 static void PerusLaskut()
 {
-    int a = 9;
+    int a = 10;
     int b = 3;
     int summa, vahennys, tulo;
     double jako;
@@ -119,5 +125,40 @@ static void LaskeYhteenSyotto()
     int summa = nro1 + nro2;
 
     Console.WriteLine("Lukujen " + nro1 + " ja " + nro2 + " summa on " + summa);
+}
+
+static void FahrenheitCelsiusSyotto()
+{
+    double celsius;
+    double fahrenheit;
+
+    Console.WriteLine("Ole hyvä ja syötä celsiusaste, jonka haluat muuttaa fahrenheitiksi: ");
+    celsius = double.Parse(Console.ReadLine());
+    fahrenheit = celsius * 1.8 + 32;
+
+    Console.WriteLine(celsius + " celsiusastetta" + " on " + fahrenheit + " fahrenheitastetta.");
+}
+
+static void PerusLaskutSyotto()
+{
+    double luku1;
+    double luku2;
+
+    double summa;
+    double erotus;
+    double kerto;
+    double jako;
+
+    Console.WriteLine("Ole hyvä ja syötä ensimmäinen luku: ");
+    luku1 = double.Parse(Console.ReadLine());
+    Console.WriteLine("Ole hyvä ja syötä toinen luku: ");
+    luku2 = double.Parse(Console.ReadLine());
+
+    summa = luku1 + luku2;
+    erotus = luku1 - luku2;
+    kerto = luku1 * luku2;
+    jako = luku1 / luku2;
+
+    Console.WriteLine("lukujen " + luku1 + " ja " + luku2 + " summa = " + summa + ", erotus = " + erotus + ", tulo = " + kerto + " ja jakolasku = " + jako + ".");
 }
 
