@@ -1,0 +1,15 @@
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\alkuluento_herjoitukset_dia69\alkuluento_herjoitukset_dia69\bin\Debug\net6.0\alkuluento_herjoitukset_dia69.exe
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\alkuluento_herjoitukset_dia69\alkuluento_herjoitukset_dia69\bin\Debug\net6.0\alkuluento_herjoitukset_dia69.deps.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\alkuluento_herjoitukset_dia69\alkuluento_herjoitukset_dia69\bin\Debug\net6.0\alkuluento_herjoitukset_dia69.runtimeconfig.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\alkuluento_herjoitukset_dia69\alkuluento_herjoitukset_dia69\bin\Debug\net6.0\alkuluento_herjoitukset_dia69.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\alkuluento_herjoitukset_dia69\alkuluento_herjoitukset_dia69\bin\Debug\net6.0\alkuluento_herjoitukset_dia69.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\alkuluento_herjoitukset_dia69\alkuluento_herjoitukset_dia69\obj\Debug\net6.0\alkuluento_herjoitukset_dia69.csproj.AssemblyReference.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\alkuluento_herjoitukset_dia69\alkuluento_herjoitukset_dia69\obj\Debug\net6.0\alkuluento_herjoitukset_dia69.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\alkuluento_herjoitukset_dia69\alkuluento_herjoitukset_dia69\obj\Debug\net6.0\alkuluento_herjoitukset_dia69.AssemblyInfoInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\alkuluento_herjoitukset_dia69\alkuluento_herjoitukset_dia69\obj\Debug\net6.0\alkuluento_herjoitukset_dia69.AssemblyInfo.cs
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\alkuluento_herjoitukset_dia69\alkuluento_herjoitukset_dia69\obj\Debug\net6.0\alkuluento_herjoitukset_dia69.csproj.CoreCompileInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\alkuluento_herjoitukset_dia69\alkuluento_herjoitukset_dia69\obj\Debug\net6.0\alkuluento_herjoitukset_dia69.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\alkuluento_herjoitukset_dia69\alkuluento_herjoitukset_dia69\obj\Debug\net6.0\refint\alkuluento_herjoitukset_dia69.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\alkuluento_herjoitukset_dia69\alkuluento_herjoitukset_dia69\obj\Debug\net6.0\alkuluento_herjoitukset_dia69.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\alkuluento_herjoitukset_dia69\alkuluento_herjoitukset_dia69\obj\Debug\net6.0\alkuluento_herjoitukset_dia69.genruntimeconfig.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\alkuluento_herjoitukset_dia69\alkuluento_herjoitukset_dia69\obj\Debug\net6.0\ref\alkuluento_herjoitukset_dia69.dll
