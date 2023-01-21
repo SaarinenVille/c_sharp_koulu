@@ -42,6 +42,9 @@ switch (numero)
     case 2:
         LuvunToisto();
         break;
+    case 4:
+        ParillisetParittomat();
+        break;
     case 0:
         Exit();
         break;
@@ -80,6 +83,32 @@ static void LuvunToisto()
         }        
             Console.WriteLine();
     }
+}
+
+static void ParillisetParittomat()
+
+{
+    int ensimmainen;
+    int toinen;
+
+    Console.WriteLine("Ole hyvä ja syötä ensimmäinen luku: ");
+    ensimmainen = int.Parse(Console.ReadLine());
+    Console.WriteLine("Ole hyvä ja syötä toinen luku: ");
+    toinen = int.Parse(Console.ReadLine());
+
+    if (ensimmainen > 0  && toinen > 0)
+    {
+        Console.WriteLine("Molemmat luvut ovat positiivisia.");
+    }
+    else if (ensimmainen < 0 && toinen < 0)
+    {
+        Console.WriteLine("Molemmat luvut ovat negatiivisia.");
+    }
+    else
+    {
+        Console.WriteLine("Toinen luku on positiivinen ja toinen on negatiivinen.");
+    }
+        
 }
 
 
