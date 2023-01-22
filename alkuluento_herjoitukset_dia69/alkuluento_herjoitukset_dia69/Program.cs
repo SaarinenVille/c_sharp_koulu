@@ -3,7 +3,9 @@
 using System.Collections.Specialized;
 
 // Hyppykohta, johon ohjelma palaa goto alku-komennolla
+
 alku:
+Console.Clear();
 
 // Tehdään ensiksi valikko, josta voi valita haluamansa tehtävän
 Console.WriteLine("");
@@ -53,10 +55,13 @@ switch (numero)
         VaihdaKirjaimet();
         break;
     case 4:
-        ParillisetParittomat();
+        PositiivinenNegatiivinen();
         break;
     case 5:
         PisinSana();
+        break;
+    case 6:
+        Parittomat();
         break;
     case 0:
         Exit();
@@ -83,8 +88,9 @@ static void LuvunToisto()
 {
     toistoAlku:
     Console.Clear();
+
     int luku;
-    int toisto = 1;
+
     Console.Write("Ole hyvä ja syötä suurempi kokonaisluku kuin 10: ");
     luku = int.Parse(Console.ReadLine());
 
@@ -115,10 +121,9 @@ static void VaihdaKirjaimet()
 
 {
     Console.Clear();
-
     string sana;
-    string uusiSana;
-    
+    string uusiSana;    
+
     Console.Write("Syötä jokin sana. Ohjelma vaihtaa ensimmäisen ja viimeisen kirjaimen paikkaa: ");
     sana = Console.ReadLine();
     char[] sanaTaulu = new char[sana.Length];
@@ -133,16 +138,16 @@ static void VaihdaKirjaimet()
         Console.WriteLine(uusiSana);
 }
 
-static void ParillisetParittomat()
+static void PositiivinenNegatiivinen()
 
 {
     Console.Clear();
     int ensimmainen;
     int toinen;
 
-    Console.WriteLine("Ole hyvä ja syötä ensimmäinen luku: ");
+    Console.Write("Ole hyvä ja syötä ensimmäinen luku: ");
     ensimmainen = int.Parse(Console.ReadLine());
-    Console.WriteLine("Ole hyvä ja syötä toinen luku: ");
+    Console.Write("Ole hyvä ja syötä toinen luku: ");
     toinen = int.Parse(Console.ReadLine());
 
     if (ensimmainen > 0  && toinen > 0)
@@ -163,9 +168,9 @@ static void PisinSana()
 
 {
     Console.Clear();
-
     string lause;
-    Console.WriteLine("Syötä jokin lause. Ohjelma etsii lauseen pisimmän sanan. ");
+
+    Console.Write("Syötä jokin lause. Ohjelma etsii lauseen pisimmän sanan: ");
     lause = Console.ReadLine();
 
     string[] sanaTaulu = lause.Split(' ');
@@ -181,10 +186,33 @@ static void PisinSana()
     Console.WriteLine("Lauseen pisin sana on: " + pisinSana);
 }
 
+static void Parittomat()
+{
+    Console.Clear();
+    int luku;
+    int parittomat;
+
+    Console.WriteLine("Tämä ohjelma tulostaa kaikki parittomat luvut välillä 1-99. Ole hyvä ja paina enter: ");
+    Console.ReadLine();
+
+    for (int i = 1; i < 100; i++)
+    {
+        luku = i;
+
+        if (luku % 2 != 0)
+        {
+            parittomat = luku;
+            Console.Write(parittomat + " ");
+        }       
+    }
+}
 
 
 
 
+
+Console.Write("\n\nPaina enter palataksesi valikkoon: ");
+Console.ReadLine();
 goto alku;
 
 static void Exit()
