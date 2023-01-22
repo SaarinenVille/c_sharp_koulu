@@ -2,7 +2,9 @@
 using System.Data;
 using System.Runtime.Intrinsics.X86;
 
+
 alku:
+Console.Clear();
 
 Console.WriteLine("");
 
@@ -28,6 +30,7 @@ Console.WriteLine("");
 
 string kluku;
 int numero;
+Console.Write("Syötä valinta: ");
 kluku = Console.ReadLine();
 try
 {
@@ -85,6 +88,7 @@ switch (numero)
 
 static void LaskeYhteen()
 {
+    Console.Clear();
     Console.WriteLine("10 + 5 = " + (10 + 5));
 }
 
@@ -92,6 +96,7 @@ static void LaskeYhteen()
 
 static void CelsiusFahrenheit()
 {
+    Console.Clear();
     int celsius = 20;
     double fahrenheit = celsius * 1.8 + 32;
     Console.WriteLine(celsius + " celsiusta on " + fahrenheit + " fahrenheitia");
@@ -101,6 +106,7 @@ static void CelsiusFahrenheit()
 
 static void PerusLaskut()
 {
+    Console.Clear();
     int a = 10;
     int b = 3;
     int summa, vahennys, tulo;
@@ -116,6 +122,7 @@ static void PerusLaskut()
 
 static void JakoJaannos()
 {
+    Console.Clear();
     int a = 5;
     int b = 2;
     int jakoj = a % b;
@@ -125,20 +132,22 @@ static void JakoJaannos()
 
 static void Nimi()
 {
+    Console.Clear();
     string nimi;
-    Console.WriteLine("Ole hyvä ja kirjoita nimesi: ");
+    Console.Write("Ole hyvä ja kirjoita nimesi: ");
     nimi = Console.ReadLine();
     Console.WriteLine("Hei " + nimi + "!");
 }
 
 static void LaskeYhteenSyotto()
 {
+    Console.Clear();
     int nro1;
     int nro2;
 
-    Console.WriteLine("Syötä ensimmäinen kokonaisluku: ");
+    Console.Write("Syötä ensimmäinen kokonaisluku: ");
     nro1 = int.Parse(Console.ReadLine());
-    Console.WriteLine("Syötä toinen kokonaisluku: ");
+    Console.Write("Syötä toinen kokonaisluku: ");
     nro2 = int.Parse(Console.ReadLine());
 
     int summa = nro1 + nro2;
@@ -148,10 +157,11 @@ static void LaskeYhteenSyotto()
 
 static void FahrenheitCelsiusSyotto()
 {
+    Console.Clear();
     double celsius;
     double fahrenheit;
 
-    Console.WriteLine("Ole hyvä ja syötä celsiusaste, jonka haluat muuttaa fahrenheitiksi: ");
+    Console.Write("Ole hyvä ja syötä celsiusaste, jonka haluat muuttaa fahrenheitiksi: ");
     celsius = double.Parse(Console.ReadLine());
     fahrenheit = celsius * 1.8 + 32;
 
@@ -160,6 +170,7 @@ static void FahrenheitCelsiusSyotto()
 
 static void PerusLaskutSyotto()
 {
+    Console.Clear();
     int luku1;
     int luku2;
 
@@ -168,9 +179,9 @@ static void PerusLaskutSyotto()
     int kerto;
     double jako;
 
-    Console.WriteLine("Ole hyvä ja syötä ensimmäinen luku: ");
+    Console.Write("Ole hyvä ja syötä ensimmäinen luku: ");
     luku1 = int.Parse(Console.ReadLine());
-    Console.WriteLine("Ole hyvä ja syötä toinen luku: ");
+    Console.Write("Ole hyvä ja syötä toinen luku: ");
     luku2 = int.Parse(Console.ReadLine());
 
     summa = luku1 + luku2;
@@ -183,12 +194,13 @@ static void PerusLaskutSyotto()
 
 static void JakoJaannosSyotto()
 {
+    Console.Clear();
     int lu1;
     int lu2;
 
-    Console.WriteLine("Ole hyvä ja syötä ensimmäinen kokonaisluku: ");
+    Console.Write("Ole hyvä ja syötä ensimmäinen kokonaisluku: ");
     lu1 = int.Parse(Console.ReadLine());
-    Console.WriteLine("Ole hyvä ja syötä toinen kokonaisluku: ");
+    Console.Write("Ole hyvä ja syötä toinen kokonaisluku: ");
     lu2 = int.Parse(Console.ReadLine());
 
     int jakojaannos = lu1 % lu2;
@@ -198,10 +210,11 @@ static void JakoJaannosSyotto()
 
 static void KertoTaulu()
 {
+    Console.Clear();
     int luku;
     int kerto = 1;
 
-    Console.WriteLine("Ole hyvä ja syötä kokonaisluku, jonka kertotaulun haluat: ");
+    Console.Write("Ole hyvä ja syötä kokonaisluku, jonka kertotaulun haluat: ");
     luku = Int32.Parse(Console.ReadLine());
 
     
@@ -212,6 +225,9 @@ static void KertoTaulu()
         }
 }
 
+Console.WriteLine();
+Console.Write("Ole hyvä ja paina enter palataksesi valikkoon: ");
+Console.ReadLine();
 goto alku;
 
 static void Exit()
