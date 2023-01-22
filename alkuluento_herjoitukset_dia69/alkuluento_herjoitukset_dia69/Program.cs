@@ -63,6 +63,9 @@ switch (numero)
     case 6:
         Parittomat();
         break;
+    case 7:
+        KolmellaJaolliset();
+        break;
     case 0:
         Exit();
         break;
@@ -204,6 +207,27 @@ static void Parittomat()
             parittomat = luku;
             Console.Write(parittomat + " ");
         }       
+    }
+}
+
+static void KolmellaJaolliset()
+{
+    Console.Clear();
+    int luku;
+    int kolmoset;
+
+    Console.WriteLine("Tämä ohjelma tulostaa kaikki kolmella jaolliset luvut välillä 1-99. Ole hyvä ja paina enter: ");
+    Console.ReadLine();
+
+    for (int i = 1; i < 100; i++)
+    {
+        luku = i;
+
+        if (luku % 3 == 0)
+        {
+            kolmoset = luku;
+            Console.Write(kolmoset + " ");
+        }
     }
 }
 
