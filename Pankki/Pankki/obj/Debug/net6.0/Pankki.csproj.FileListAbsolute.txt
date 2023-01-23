@@ -1,0 +1,15 @@
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Pankki\Pankki\bin\Debug\net6.0\Pankki.exe
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Pankki\Pankki\bin\Debug\net6.0\Pankki.deps.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Pankki\Pankki\bin\Debug\net6.0\Pankki.runtimeconfig.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Pankki\Pankki\bin\Debug\net6.0\Pankki.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Pankki\Pankki\bin\Debug\net6.0\Pankki.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Pankki\Pankki\obj\Debug\net6.0\Pankki.csproj.AssemblyReference.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Pankki\Pankki\obj\Debug\net6.0\Pankki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Pankki\Pankki\obj\Debug\net6.0\Pankki.AssemblyInfoInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Pankki\Pankki\obj\Debug\net6.0\Pankki.AssemblyInfo.cs
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Pankki\Pankki\obj\Debug\net6.0\Pankki.csproj.CoreCompileInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Pankki\Pankki\obj\Debug\net6.0\Pankki.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Pankki\Pankki\obj\Debug\net6.0\refint\Pankki.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Pankki\Pankki\obj\Debug\net6.0\Pankki.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Pankki\Pankki\obj\Debug\net6.0\Pankki.genruntimeconfig.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\Pankki\Pankki\obj\Debug\net6.0\ref\Pankki.dll
