@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Opiskelu\\Keuda\\Ohjelmointi\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\Lumoakatemia\\Lumoakatemia perusharjoitukset\\Lumoakatemia perusharjoitukset.csproj": {}
+    "F:\\Keuda\\Kurssit\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\Lumoakatemia\\Lumoakatemia perusharjoitukset\\Lumoakatemia perusharjoitukset.csproj": {}
   },
   "projects": {
-    "C:\\Opiskelu\\Keuda\\Ohjelmointi\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\Lumoakatemia\\Lumoakatemia perusharjoitukset\\Lumoakatemia perusharjoitukset.csproj": {
+    "F:\\Keuda\\Kurssit\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\Lumoakatemia\\Lumoakatemia perusharjoitukset\\Lumoakatemia perusharjoitukset.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Opiskelu\\Keuda\\Ohjelmointi\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\Lumoakatemia\\Lumoakatemia perusharjoitukset\\Lumoakatemia perusharjoitukset.csproj",
+        "projectUniqueName": "F:\\Keuda\\Kurssit\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\Lumoakatemia\\Lumoakatemia perusharjoitukset\\Lumoakatemia perusharjoitukset.csproj",
         "projectName": "Lumoakatemia perusharjoitukset",
-        "projectPath": "C:\\Opiskelu\\Keuda\\Ohjelmointi\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\Lumoakatemia\\Lumoakatemia perusharjoitukset\\Lumoakatemia perusharjoitukset.csproj",
-        "packagesPath": "C:\\Users\\Saarnapuu\\.nuget\\packages\\",
-        "outputPath": "C:\\Opiskelu\\Keuda\\Ohjelmointi\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\Lumoakatemia\\Lumoakatemia perusharjoitukset\\obj\\",
+        "projectPath": "F:\\Keuda\\Kurssit\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\Lumoakatemia\\Lumoakatemia perusharjoitukset\\Lumoakatemia perusharjoitukset.csproj",
+        "packagesPath": "C:\\Users\\ville\\.nuget\\packages\\",
+        "outputPath": "F:\\Keuda\\Kurssit\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\Lumoakatemia\\Lumoakatemia perusharjoitukset\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Saarnapuu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ville\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
