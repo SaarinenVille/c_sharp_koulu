@@ -1,11 +1,13 @@
-namespace Pankki;
+using Pankki;
 
-[TestClass]
-public class PankkitiliTesti
-{
-    [TestMethod]
-    public void Otto_OikeallaSummalla_PaivitaSaldo()
+namespace Pankkitesti
+{ 
+    [TestClass]
+    public class PankkitiliTesti
     {
+     [TestMethod]
+       public void Otto_OikeallaSummalla_PaivitaSaldo()
+      {
         // Alkuvalmistelut
         double alkusaldo = 11.99;
         double ottoSumma = 4.55;
@@ -18,5 +20,6 @@ public class PankkitiliTesti
         // Oletettu lopputulos
         double todellinen = tili.Saldo;
         Assert.AreEqual(oletettu, todellinen, 0.001, "Tililtä otto ei onnistunut!");
+     }
     }
 }

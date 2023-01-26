@@ -19,6 +19,9 @@
     <Reference Include="Pankki">
       <HintPath>..\..\Pankki\Pankki\bin\Debug\net6.0\Pankki.dll</HintPath>
     </Reference>
+    <Reference Include="Pankkitesti">
+      <HintPath>bin\Debug\net6.0\Pankkitesti.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
