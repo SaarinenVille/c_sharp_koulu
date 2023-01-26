@@ -1,0 +1,15 @@
+C:\Opiskelu\Keuda\Ohjelmointi\Ohjelmistokehittäjä\repos\c_sharp_koulu\Lumoakatemia\Lumoakatemia perusharjoitukset\bin\Debug\net6.0\Lumoakatemia perusharjoitukset.exe
+C:\Opiskelu\Keuda\Ohjelmointi\Ohjelmistokehittäjä\repos\c_sharp_koulu\Lumoakatemia\Lumoakatemia perusharjoitukset\bin\Debug\net6.0\Lumoakatemia perusharjoitukset.deps.json
+C:\Opiskelu\Keuda\Ohjelmointi\Ohjelmistokehittäjä\repos\c_sharp_koulu\Lumoakatemia\Lumoakatemia perusharjoitukset\bin\Debug\net6.0\Lumoakatemia perusharjoitukset.runtimeconfig.json
+C:\Opiskelu\Keuda\Ohjelmointi\Ohjelmistokehittäjä\repos\c_sharp_koulu\Lumoakatemia\Lumoakatemia perusharjoitukset\bin\Debug\net6.0\Lumoakatemia perusharjoitukset.dll
+C:\Opiskelu\Keuda\Ohjelmointi\Ohjelmistokehittäjä\repos\c_sharp_koulu\Lumoakatemia\Lumoakatemia perusharjoitukset\bin\Debug\net6.0\Lumoakatemia perusharjoitukset.pdb
+C:\Opiskelu\Keuda\Ohjelmointi\Ohjelmistokehittäjä\repos\c_sharp_koulu\Lumoakatemia\Lumoakatemia perusharjoitukset\obj\Debug\net6.0\Lumoakatemia perusharjoitukset.csproj.AssemblyReference.cache
+C:\Opiskelu\Keuda\Ohjelmointi\Ohjelmistokehittäjä\repos\c_sharp_koulu\Lumoakatemia\Lumoakatemia perusharjoitukset\obj\Debug\net6.0\Lumoakatemia perusharjoitukset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Opiskelu\Keuda\Ohjelmointi\Ohjelmistokehittäjä\repos\c_sharp_koulu\Lumoakatemia\Lumoakatemia perusharjoitukset\obj\Debug\net6.0\Lumoakatemia perusharjoitukset.AssemblyInfoInputs.cache
+C:\Opiskelu\Keuda\Ohjelmointi\Ohjelmistokehittäjä\repos\c_sharp_koulu\Lumoakatemia\Lumoakatemia perusharjoitukset\obj\Debug\net6.0\Lumoakatemia perusharjoitukset.AssemblyInfo.cs
+C:\Opiskelu\Keuda\Ohjelmointi\Ohjelmistokehittäjä\repos\c_sharp_koulu\Lumoakatemia\Lumoakatemia perusharjoitukset\obj\Debug\net6.0\Lumoakatemia perusharjoitukset.csproj.CoreCompileInputs.cache
+C:\Opiskelu\Keuda\Ohjelmointi\Ohjelmistokehittäjä\repos\c_sharp_koulu\Lumoakatemia\Lumoakatemia perusharjoitukset\obj\Debug\net6.0\Lumoakatemia perusharjoitukset.dll
+C:\Opiskelu\Keuda\Ohjelmointi\Ohjelmistokehittäjä\repos\c_sharp_koulu\Lumoakatemia\Lumoakatemia perusharjoitukset\obj\Debug\net6.0\refint\Lumoakatemia perusharjoitukset.dll
+C:\Opiskelu\Keuda\Ohjelmointi\Ohjelmistokehittäjä\repos\c_sharp_koulu\Lumoakatemia\Lumoakatemia perusharjoitukset\obj\Debug\net6.0\Lumoakatemia perusharjoitukset.pdb
+C:\Opiskelu\Keuda\Ohjelmointi\Ohjelmistokehittäjä\repos\c_sharp_koulu\Lumoakatemia\Lumoakatemia perusharjoitukset\obj\Debug\net6.0\Lumoakatemia perusharjoitukset.genruntimeconfig.cache
+C:\Opiskelu\Keuda\Ohjelmointi\Ohjelmistokehittäjä\repos\c_sharp_koulu\Lumoakatemia\Lumoakatemia perusharjoitukset\obj\Debug\net6.0\ref\Lumoakatemia perusharjoitukset.dll
