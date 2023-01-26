@@ -1,5 +1,5 @@
 ﻿using System.Runtime.InteropServices;
-
+using System.Runtime.Intrinsics.X86;
 
 namespace Perusharjoitukset
 {
@@ -22,10 +22,10 @@ namespace Perusharjoitukset
             Console.WriteLine("5. Laske lukujen 5.50 ja 2.50 osamäärä. ");
             Console.WriteLine("6. Muunna celsiusasteet fahrenheitasteiksi. ");
             Console.WriteLine("7. Muunna fahrenheitasteet celsiusasteiksi:");
-            Console.WriteLine("8. Muunna mailit kilometreiksi.");
-            Console.WriteLine("9. Muunna kilometrit maileiksi.");
-            Console.WriteLine("10. Muunna tuumat senteiksi.");
-            Console.WriteLine("11. Muunna sentit tuumiksi.");
+            Console.WriteLine("8. Muunna syötetyt mailit kilometreiksi.");
+            Console.WriteLine("9. Muunna syötetyt kilometrit maileiksi.");
+            Console.WriteLine("10. Muunna syötetyt tuumat senteiksi.");
+            Console.WriteLine("11. Muunna syötetyt sentit tuumiksi.");
             Console.WriteLine("12. Muunna yardit metreiksi.");
             Console.WriteLine("13. Muunna metrit yardeiksi");
             Console.WriteLine("14. Muunna syötetty Fahrenheit --> Celsius.");
@@ -80,6 +80,15 @@ namespace Perusharjoitukset
                 case 11:
                     SenttiTuuma();
                     break;
+                case 12:
+                    YardMetri();
+                    break;
+                case 13:
+                    MetriYard();
+                    break;
+
+                default: Console.WriteLine("Ole hyvä ja syötä oikea numero");
+                    break;
                   
 
 
@@ -113,7 +122,7 @@ namespace Perusharjoitukset
 
                 int nro1 = 20;
                 int nro2 = 10;
-                int erotus = nro2 - nro1;
+                int erotus = nro1 - nro2;
 
                 Console.WriteLine("Lukujen 20 ja 10 erotus on: " + erotus);
                 Console.Write("Paina enter palataksesi valikkoon: ");
@@ -231,6 +240,27 @@ namespace Perusharjoitukset
                 Console.WriteLine(sentit + " senttimetriä on " + tuumat + " tuumaa.");
 
                 Console.Write("Paina enter palataksesi valikkoon: ");
+                Console.ReadLine();
+            }
+
+            static void YardMetri()
+            {
+                Console.Clear();
+                int yard = 1;
+                double metri;
+                metri = yard * 1.0936;
+                Console.WriteLine(yard + " jaardi on " + metri + " metriä.");
+                Console.ReadLine();
+
+            }
+
+            static void MetriYard()
+            {
+                Console.Clear();
+                int metri = 1;
+                float yard;
+                yard = (float)(metri / 1.0936);
+                Console.WriteLine(metri + " metri on " + yard + " jaardia.");
                 Console.ReadLine();
             }
 
