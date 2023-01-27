@@ -35,18 +35,22 @@
             // OtsikkoLB
             // 
             this.OtsikkoLB.AutoSize = true;
-            this.OtsikkoLB.Location = new System.Drawing.Point(453, 30);
+            this.OtsikkoLB.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.OtsikkoLB.Location = new System.Drawing.Point(248, 9);
+            this.OtsikkoLB.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.OtsikkoLB.Name = "OtsikkoLB";
-            this.OtsikkoLB.Size = new System.Drawing.Size(73, 25);
+            this.OtsikkoLB.Size = new System.Drawing.Size(89, 30);
             this.OtsikkoLB.TabIndex = 0;
             this.OtsikkoLB.Text = "Otsikko";
             this.OtsikkoLB.Click += new System.EventHandler(this.label1_Click);
             // 
             // VaihdaBT
             // 
-            this.VaihdaBT.Location = new System.Drawing.Point(403, 71);
+            this.VaihdaBT.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.VaihdaBT.Location = new System.Drawing.Point(205, 61);
+            this.VaihdaBT.Margin = new System.Windows.Forms.Padding(2);
             this.VaihdaBT.Name = "VaihdaBT";
-            this.VaihdaBT.Size = new System.Drawing.Size(161, 73);
+            this.VaihdaBT.Size = new System.Drawing.Size(182, 44);
             this.VaihdaBT.TabIndex = 1;
             this.VaihdaBT.Text = " Vaihda teksti";
             this.VaihdaBT.UseVisualStyleBackColor = true;
@@ -54,11 +58,12 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1152, 450);
+            this.ClientSize = new System.Drawing.Size(605, 507);
             this.Controls.Add(this.VaihdaBT);
             this.Controls.Add(this.OtsikkoLB);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Harjoitus 1";
             this.ResumeLayout(false);
