@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD-projekti", "CRUD-projekti\CRUD-projekti.csproj", "{A5384F07-5A5A-461B-BBB6-26918B158872}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUD-projekti", "CRUD-projekti\CRUD-projekti.csproj", "{A5384F07-5A5A-461B-BBB6-26918B158872}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 2", "Harjoitus 2\Harjoitus 2.csproj", "{74312D1A-0DC7-4D15-B632-97C3ACAA123D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 2", "Harjoitus 2\Harjoitus 2.csproj", "{74312D1A-0DC7-4D15-B632-97C3ACAA123D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laskin", "Laskin\Laskin.csproj", "{DB703EE6-1F6E-4431-92BC-F3C23DE2DA61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{74312D1A-0DC7-4D15-B632-97C3ACAA123D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74312D1A-0DC7-4D15-B632-97C3ACAA123D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74312D1A-0DC7-4D15-B632-97C3ACAA123D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB703EE6-1F6E-4431-92BC-F3C23DE2DA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB703EE6-1F6E-4431-92BC-F3C23DE2DA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB703EE6-1F6E-4431-92BC-F3C23DE2DA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB703EE6-1F6E-4431-92BC-F3C23DE2DA61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

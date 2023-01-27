@@ -1,0 +1,17 @@
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Laskin\bin\Debug\net6.0-windows\Laskin.exe
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Laskin\bin\Debug\net6.0-windows\Laskin.deps.json
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Laskin\bin\Debug\net6.0-windows\Laskin.runtimeconfig.json
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Laskin\bin\Debug\net6.0-windows\Laskin.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Laskin\bin\Debug\net6.0-windows\Laskin.pdb
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Laskin\obj\Debug\net6.0-windows\Laskin.csproj.AssemblyReference.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Laskin\obj\Debug\net6.0-windows\Laskin.Form1.resources
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Laskin\obj\Debug\net6.0-windows\Laskin.csproj.GenerateResource.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Laskin\obj\Debug\net6.0-windows\Laskin.GeneratedMSBuildEditorConfig.editorconfig
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Laskin\obj\Debug\net6.0-windows\Laskin.AssemblyInfoInputs.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Laskin\obj\Debug\net6.0-windows\Laskin.AssemblyInfo.cs
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Laskin\obj\Debug\net6.0-windows\Laskin.csproj.CoreCompileInputs.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Laskin\obj\Debug\net6.0-windows\Laskin.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Laskin\obj\Debug\net6.0-windows\refint\Laskin.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Laskin\obj\Debug\net6.0-windows\Laskin.pdb
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Laskin\obj\Debug\net6.0-windows\Laskin.genruntimeconfig.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Laskin\obj\Debug\net6.0-windows\ref\Laskin.dll

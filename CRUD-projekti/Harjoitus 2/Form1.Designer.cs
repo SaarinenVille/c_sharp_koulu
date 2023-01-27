@@ -38,7 +38,8 @@
             // 
             this.otsikkoLB.AutoSize = true;
             this.otsikkoLB.Font = new System.Drawing.Font("Segoe Script", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
-            this.otsikkoLB.Location = new System.Drawing.Point(237, 30);
+            this.otsikkoLB.Location = new System.Drawing.Point(166, 18);
+            this.otsikkoLB.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.otsikkoLB.Name = "otsikkoLB";
             this.otsikkoLB.Size = new System.Drawing.Size(220, 25);
             this.otsikkoLB.TabIndex = 0;
@@ -48,7 +49,8 @@
             // 
             this.TulostusLB.AutoSize = true;
             this.TulostusLB.Font = new System.Drawing.Font("Segoe Script", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
-            this.TulostusLB.Location = new System.Drawing.Point(237, 91);
+            this.TulostusLB.Location = new System.Drawing.Point(251, 55);
+            this.TulostusLB.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.TulostusLB.Name = "TulostusLB";
             this.TulostusLB.Size = new System.Drawing.Size(56, 25);
             this.TulostusLB.TabIndex = 1;
@@ -58,17 +60,20 @@
             // viestiTB
             // 
             this.viestiTB.Font = new System.Drawing.Font("Segoe UI", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
-            this.viestiTB.Location = new System.Drawing.Point(463, 26);
+            this.viestiTB.Location = new System.Drawing.Point(390, 16);
+            this.viestiTB.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.viestiTB.Name = "viestiTB";
-            this.viestiTB.Size = new System.Drawing.Size(286, 29);
+            this.viestiTB.Size = new System.Drawing.Size(230, 29);
             this.viestiTB.TabIndex = 2;
             // 
             // button1
             // 
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.button1.Location = new System.Drawing.Point(535, 91);
+            this.button1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.button1.Location = new System.Drawing.Point(447, 55);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(112, 34);
+            this.button1.Size = new System.Drawing.Size(108, 30);
             this.button1.TabIndex = 3;
             this.button1.Text = "Tulosta teksti";
             this.button1.UseVisualStyleBackColor = true;
@@ -76,15 +81,16 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Salmon;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(833, 164);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.viestiTB);
             this.Controls.Add(this.TulostusLB);
             this.Controls.Add(this.otsikkoLB);
             this.ForeColor = System.Drawing.Color.MintCream;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "Harjoitus 2";
             this.ResumeLayout(false);
