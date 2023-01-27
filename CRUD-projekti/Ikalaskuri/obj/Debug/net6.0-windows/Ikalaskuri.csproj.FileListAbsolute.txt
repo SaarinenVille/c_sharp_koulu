@@ -1,0 +1,17 @@
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Ikalaskuri\bin\Debug\net6.0-windows\Ikalaskuri.exe
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Ikalaskuri\bin\Debug\net6.0-windows\Ikalaskuri.deps.json
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Ikalaskuri\bin\Debug\net6.0-windows\Ikalaskuri.runtimeconfig.json
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Ikalaskuri\bin\Debug\net6.0-windows\Ikalaskuri.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Ikalaskuri\bin\Debug\net6.0-windows\Ikalaskuri.pdb
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Ikalaskuri\obj\Debug\net6.0-windows\Ikalaskuri.csproj.AssemblyReference.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Ikalaskuri\obj\Debug\net6.0-windows\Ikalaskuri.Form1.resources
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Ikalaskuri\obj\Debug\net6.0-windows\Ikalaskuri.csproj.GenerateResource.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Ikalaskuri\obj\Debug\net6.0-windows\Ikalaskuri.GeneratedMSBuildEditorConfig.editorconfig
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Ikalaskuri\obj\Debug\net6.0-windows\Ikalaskuri.AssemblyInfoInputs.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Ikalaskuri\obj\Debug\net6.0-windows\Ikalaskuri.AssemblyInfo.cs
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Ikalaskuri\obj\Debug\net6.0-windows\Ikalaskuri.csproj.CoreCompileInputs.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Ikalaskuri\obj\Debug\net6.0-windows\Ikalaskuri.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Ikalaskuri\obj\Debug\net6.0-windows\refint\Ikalaskuri.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Ikalaskuri\obj\Debug\net6.0-windows\Ikalaskuri.pdb
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Ikalaskuri\obj\Debug\net6.0-windows\Ikalaskuri.genruntimeconfig.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Ikalaskuri\obj\Debug\net6.0-windows\ref\Ikalaskuri.dll
