@@ -34,6 +34,7 @@ namespace Laskin
                     break;
 
                 }
+                // Muutetaan vastaus-muuttuja string muotoon, koska VastausLB-kenttä on stringmuotoinen
                 VastausLB.Text = vastaus.ToString();
                 VastausLB.Visible = true;
         }
