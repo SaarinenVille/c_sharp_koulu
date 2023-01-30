@@ -1,0 +1,17 @@
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\LukujenJarjestys\bin\Debug\net6.0-windows\LukujenJarjestys.exe
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\LukujenJarjestys\bin\Debug\net6.0-windows\LukujenJarjestys.deps.json
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\LukujenJarjestys\bin\Debug\net6.0-windows\LukujenJarjestys.runtimeconfig.json
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\LukujenJarjestys\bin\Debug\net6.0-windows\LukujenJarjestys.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\LukujenJarjestys\bin\Debug\net6.0-windows\LukujenJarjestys.pdb
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.csproj.AssemblyReference.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.LukujenJarjestys.resources
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.csproj.GenerateResource.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.GeneratedMSBuildEditorConfig.editorconfig
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.AssemblyInfoInputs.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.AssemblyInfo.cs
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.csproj.CoreCompileInputs.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\LukujenJarjestys\obj\Debug\net6.0-windows\refint\LukujenJarjestys.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.pdb
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\LukujenJarjestys\obj\Debug\net6.0-windows\LukujenJarjestys.genruntimeconfig.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\LukujenJarjestys\obj\Debug\net6.0-windows\ref\LukujenJarjestys.dll
