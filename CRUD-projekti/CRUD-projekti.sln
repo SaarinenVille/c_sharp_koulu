@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laskin", "Laskin\Laskin.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ikalaskuri", "Ikalaskuri\Ikalaskuri.csproj", "{47A31100-4411-4EA6-AFCD-EE4A60C74C77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LukujenJarjestys", "LukujenJarjestys\LukujenJarjestys.csproj", "{0A9E8268-87F3-446C-A0F3-7623AD2CA328}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LukujenJarjestys", "LukujenJarjestys\LukujenJarjestys.csproj", "{0A9E8268-87F3-446C-A0F3-7623AD2CA328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalasananTarkastus", "SalasananTarkastus\SalasananTarkastus.csproj", "{E5E3CB9B-D051-4E31-A712-F9E0A6F1B8F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{0A9E8268-87F3-446C-A0F3-7623AD2CA328}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A9E8268-87F3-446C-A0F3-7623AD2CA328}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A9E8268-87F3-446C-A0F3-7623AD2CA328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E3CB9B-D051-4E31-A712-F9E0A6F1B8F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E3CB9B-D051-4E31-A712-F9E0A6F1B8F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E3CB9B-D051-4E31-A712-F9E0A6F1B8F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E3CB9B-D051-4E31-A712-F9E0A6F1B8F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

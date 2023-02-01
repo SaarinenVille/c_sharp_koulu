@@ -1,0 +1,17 @@
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SalasananTarkastus\bin\Debug\net6.0-windows\SalasananTarkastus.exe
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SalasananTarkastus\bin\Debug\net6.0-windows\SalasananTarkastus.deps.json
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SalasananTarkastus\bin\Debug\net6.0-windows\SalasananTarkastus.runtimeconfig.json
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SalasananTarkastus\bin\Debug\net6.0-windows\SalasananTarkastus.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SalasananTarkastus\bin\Debug\net6.0-windows\SalasananTarkastus.pdb
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.csproj.AssemblyReference.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.SalasanaForm.resources
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.csproj.GenerateResource.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.GeneratedMSBuildEditorConfig.editorconfig
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.AssemblyInfoInputs.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.AssemblyInfo.cs
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.csproj.CoreCompileInputs.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SalasananTarkastus\obj\Debug\net6.0-windows\refint\SalasananTarkastus.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.pdb
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.genruntimeconfig.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SalasananTarkastus\obj\Debug\net6.0-windows\ref\SalasananTarkastus.dll

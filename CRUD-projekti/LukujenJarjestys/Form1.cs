@@ -2,7 +2,7 @@ namespace LukujenJarjestys
 {
     public partial class LukujenJarjestys : Form
     {
-        List<int> jono = new List<int>();
+        List<int> jono = new List<int>();       
         public LukujenJarjestys()
         {
             InitializeComponent();
@@ -18,8 +18,7 @@ namespace LukujenJarjestys
             if(e.KeyChar == (char)Keys.Enter) 
             {
                 if(uusiLukuTB.Text == "-999")
-                {
-                    
+                {                   
                     int[] taulukko = jono.ToArray();
                     Array.Sort(taulukko);
                     foreach(var jasen in taulukko)
