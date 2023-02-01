@@ -1,0 +1,17 @@
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\AutoKuluLaskuri\bin\Debug\net6.0-windows\AutoKuluLaskuri.exe
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\AutoKuluLaskuri\bin\Debug\net6.0-windows\AutoKuluLaskuri.deps.json
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\AutoKuluLaskuri\bin\Debug\net6.0-windows\AutoKuluLaskuri.runtimeconfig.json
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\AutoKuluLaskuri\bin\Debug\net6.0-windows\AutoKuluLaskuri.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\AutoKuluLaskuri\bin\Debug\net6.0-windows\AutoKuluLaskuri.pdb
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\AutoKuluLaskuri\obj\Debug\net6.0-windows\AutoKuluLaskuri.csproj.AssemblyReference.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\AutoKuluLaskuri\obj\Debug\net6.0-windows\AutoKuluLaskuri.AutoKuluLaskuri.resources
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\AutoKuluLaskuri\obj\Debug\net6.0-windows\AutoKuluLaskuri.csproj.GenerateResource.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\AutoKuluLaskuri\obj\Debug\net6.0-windows\AutoKuluLaskuri.GeneratedMSBuildEditorConfig.editorconfig
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\AutoKuluLaskuri\obj\Debug\net6.0-windows\AutoKuluLaskuri.AssemblyInfoInputs.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\AutoKuluLaskuri\obj\Debug\net6.0-windows\AutoKuluLaskuri.AssemblyInfo.cs
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\AutoKuluLaskuri\obj\Debug\net6.0-windows\AutoKuluLaskuri.csproj.CoreCompileInputs.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\AutoKuluLaskuri\obj\Debug\net6.0-windows\AutoKuluLaskuri.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\AutoKuluLaskuri\obj\Debug\net6.0-windows\refint\AutoKuluLaskuri.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\AutoKuluLaskuri\obj\Debug\net6.0-windows\AutoKuluLaskuri.pdb
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\AutoKuluLaskuri\obj\Debug\net6.0-windows\AutoKuluLaskuri.genruntimeconfig.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\AutoKuluLaskuri\obj\Debug\net6.0-windows\ref\AutoKuluLaskuri.dll
