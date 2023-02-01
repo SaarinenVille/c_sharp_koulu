@@ -18,9 +18,10 @@ namespace AutoKuluLaskuri
             renkaat = Convert.ToDouble(RenkaatTB.Text);
             muut = Convert.ToDouble(MuutTB.Text);
             energia = Convert.ToDouble(PolttonesteTB.Text);
-            kilometrit = Convert.ToDouble(KilometritCB.SelectedValue);
-            kustannukset = (laina + nesteet + vakuutus + pesut + huollot + renkaat + energia + muut) / (kilometrit / 12);
-            MessageBox.Show(laina + " " + nesteet + " " + vakuutus + " " + kustannukset);
+            kilometrit = Convert.ToDouble(KilometritCB.Text);
+
+            kustannukset = (laina + nesteet + vakuutus + pesut + huollot + renkaat + energia + muut) / kilometrit;
+            
             VastausLB.Text = "Kustannukset kilometriä kohden ovat: " + kustannukset;
         }
     }
