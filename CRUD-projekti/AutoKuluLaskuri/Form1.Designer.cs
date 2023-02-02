@@ -56,9 +56,9 @@
             this.OtsikkoLB.Font = new System.Drawing.Font("Segoe UI", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.OtsikkoLB.Location = new System.Drawing.Point(364, 85);
             this.OtsikkoLB.Name = "OtsikkoLB";
-            this.OtsikkoLB.Size = new System.Drawing.Size(404, 50);
+            this.OtsikkoLB.Size = new System.Drawing.Size(831, 50);
             this.OtsikkoLB.TabIndex = 0;
-            this.OtsikkoLB.Text = "Auton kustannuslaskuri";
+            this.OtsikkoLB.Text = "Auton kustannuslaskur(vuosittaiset kustannukset)";
             // 
             // NesteetLB
             // 

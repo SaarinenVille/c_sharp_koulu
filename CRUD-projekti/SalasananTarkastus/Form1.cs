@@ -20,5 +20,17 @@ namespace SalasananTarkastus
                 VirheviestiLB.Visible = true;
             }
         }
+
+        private void NaytaCB_CheckedChanged(object sender, EventArgs e)
+        {
+            if(NaytaCB.Checked) 
+            {
+                SalasanaTB.PasswordChar = '\0';
+            }
+            else 
+            {
+                SalasanaTB.PasswordChar = '*';
+            }
+        }
     }
 }

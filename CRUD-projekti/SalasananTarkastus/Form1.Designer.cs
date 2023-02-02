@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.SalasanaPanel = new System.Windows.Forms.Panel();
+            this.NaytaCB = new System.Windows.Forms.CheckBox();
             this.VirheviestiLB = new System.Windows.Forms.Label();
             this.TarkistaBT = new System.Windows.Forms.Button();
             this.SalasanaTB = new System.Windows.Forms.TextBox();
@@ -44,6 +45,7 @@
             // SalasanaPanel
             // 
             this.SalasanaPanel.BackColor = System.Drawing.Color.MidnightBlue;
+            this.SalasanaPanel.Controls.Add(this.NaytaCB);
             this.SalasanaPanel.Controls.Add(this.VirheviestiLB);
             this.SalasanaPanel.Controls.Add(this.TarkistaBT);
             this.SalasanaPanel.Controls.Add(this.SalasanaTB);
@@ -57,6 +59,18 @@
             this.SalasanaPanel.Name = "SalasanaPanel";
             this.SalasanaPanel.Size = new System.Drawing.Size(977, 801);
             this.SalasanaPanel.TabIndex = 0;
+            // 
+            // NaytaCB
+            // 
+            this.NaytaCB.AutoSize = true;
+            this.NaytaCB.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.NaytaCB.Location = new System.Drawing.Point(629, 126);
+            this.NaytaCB.Name = "NaytaCB";
+            this.NaytaCB.Size = new System.Drawing.Size(133, 25);
+            this.NaytaCB.TabIndex = 6;
+            this.NaytaCB.Text = "Näytä salasana";
+            this.NaytaCB.UseVisualStyleBackColor = true;
+            this.NaytaCB.CheckedChanged += new System.EventHandler(this.NaytaCB_CheckedChanged);
             // 
             // VirheviestiLB
             // 
@@ -84,6 +98,7 @@
             // 
             this.SalasanaTB.Location = new System.Drawing.Point(324, 119);
             this.SalasanaTB.Name = "SalasanaTB";
+            this.SalasanaTB.PasswordChar = '*';
             this.SalasanaTB.Size = new System.Drawing.Size(274, 39);
             this.SalasanaTB.TabIndex = 3;
             // 
@@ -164,5 +179,6 @@
         private Label label1;
         private Panel SalasanaOikeinPanel;
         private Label label3;
+        private CheckBox NaytaCB;
     }
 }
