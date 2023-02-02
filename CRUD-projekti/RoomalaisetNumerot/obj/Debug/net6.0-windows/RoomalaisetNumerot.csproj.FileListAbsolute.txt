@@ -1,0 +1,17 @@
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\RoomalaisetNumerot\bin\Debug\net6.0-windows\RoomalaisetNumerot.exe
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\RoomalaisetNumerot\bin\Debug\net6.0-windows\RoomalaisetNumerot.deps.json
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\RoomalaisetNumerot\bin\Debug\net6.0-windows\RoomalaisetNumerot.runtimeconfig.json
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\RoomalaisetNumerot\bin\Debug\net6.0-windows\RoomalaisetNumerot.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\RoomalaisetNumerot\bin\Debug\net6.0-windows\RoomalaisetNumerot.pdb
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.csproj.AssemblyReference.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.Form1.resources
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.csproj.GenerateResource.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.GeneratedMSBuildEditorConfig.editorconfig
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.AssemblyInfoInputs.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.AssemblyInfo.cs
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.csproj.CoreCompileInputs.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\RoomalaisetNumerot\obj\Debug\net6.0-windows\refint\RoomalaisetNumerot.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.pdb
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.genruntimeconfig.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\RoomalaisetNumerot\obj\Debug\net6.0-windows\ref\RoomalaisetNumerot.dll
