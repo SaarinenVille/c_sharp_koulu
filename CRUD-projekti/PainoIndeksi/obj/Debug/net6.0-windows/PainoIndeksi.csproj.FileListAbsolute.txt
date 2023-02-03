@@ -1,0 +1,17 @@
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\PainoIndeksi\bin\Debug\net6.0-windows\PainoIndeksi.exe
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\PainoIndeksi\bin\Debug\net6.0-windows\PainoIndeksi.deps.json
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\PainoIndeksi\bin\Debug\net6.0-windows\PainoIndeksi.runtimeconfig.json
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\PainoIndeksi\bin\Debug\net6.0-windows\PainoIndeksi.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\PainoIndeksi\bin\Debug\net6.0-windows\PainoIndeksi.pdb
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\PainoIndeksi\obj\Debug\net6.0-windows\PainoIndeksi.csproj.AssemblyReference.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\PainoIndeksi\obj\Debug\net6.0-windows\PainoIndeksi.Form1.resources
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\PainoIndeksi\obj\Debug\net6.0-windows\PainoIndeksi.csproj.GenerateResource.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\PainoIndeksi\obj\Debug\net6.0-windows\PainoIndeksi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\PainoIndeksi\obj\Debug\net6.0-windows\PainoIndeksi.AssemblyInfoInputs.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\PainoIndeksi\obj\Debug\net6.0-windows\PainoIndeksi.AssemblyInfo.cs
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\PainoIndeksi\obj\Debug\net6.0-windows\PainoIndeksi.csproj.CoreCompileInputs.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\PainoIndeksi\obj\Debug\net6.0-windows\PainoIndeksi.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\PainoIndeksi\obj\Debug\net6.0-windows\refint\PainoIndeksi.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\PainoIndeksi\obj\Debug\net6.0-windows\PainoIndeksi.pdb
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\PainoIndeksi\obj\Debug\net6.0-windows\PainoIndeksi.genruntimeconfig.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\PainoIndeksi\obj\Debug\net6.0-windows\ref\PainoIndeksi.dll
