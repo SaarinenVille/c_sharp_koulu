@@ -1,0 +1,17 @@
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\CelsiusToFahrenheit\bin\Debug\net6.0-windows\CelsiusToFahrenheit.exe
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\CelsiusToFahrenheit\bin\Debug\net6.0-windows\CelsiusToFahrenheit.deps.json
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\CelsiusToFahrenheit\bin\Debug\net6.0-windows\CelsiusToFahrenheit.runtimeconfig.json
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\CelsiusToFahrenheit\bin\Debug\net6.0-windows\CelsiusToFahrenheit.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\CelsiusToFahrenheit\bin\Debug\net6.0-windows\CelsiusToFahrenheit.pdb
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\CelsiusToFahrenheit\obj\Debug\net6.0-windows\CelsiusToFahrenheit.csproj.AssemblyReference.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\CelsiusToFahrenheit\obj\Debug\net6.0-windows\CelsiusToFahrenheit.Form1.resources
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\CelsiusToFahrenheit\obj\Debug\net6.0-windows\CelsiusToFahrenheit.csproj.GenerateResource.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\CelsiusToFahrenheit\obj\Debug\net6.0-windows\CelsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\CelsiusToFahrenheit\obj\Debug\net6.0-windows\CelsiusToFahrenheit.AssemblyInfoInputs.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\CelsiusToFahrenheit\obj\Debug\net6.0-windows\CelsiusToFahrenheit.AssemblyInfo.cs
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\CelsiusToFahrenheit\obj\Debug\net6.0-windows\CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\CelsiusToFahrenheit\obj\Debug\net6.0-windows\CelsiusToFahrenheit.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\CelsiusToFahrenheit\obj\Debug\net6.0-windows\refint\CelsiusToFahrenheit.dll
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\CelsiusToFahrenheit\obj\Debug\net6.0-windows\CelsiusToFahrenheit.pdb
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\CelsiusToFahrenheit\obj\Debug\net6.0-windows\CelsiusToFahrenheit.genruntimeconfig.cache
+F:\Keuda\Kurssit\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\CelsiusToFahrenheit\obj\Debug\net6.0-windows\ref\CelsiusToFahrenheit.dll

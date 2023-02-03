@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalasananTarkastus", "Salas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoKuluLaskuri", "AutoKuluLaskuri\AutoKuluLaskuri.csproj", "{841ADFB7-1065-4FB9-93E6-172964C50EAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomalaisetNumerot", "RoomalaisetNumerot\RoomalaisetNumerot.csproj", "{D4FE11BE-C576-4111-AC04-46A67CAAABCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoomalaisetNumerot", "RoomalaisetNumerot\RoomalaisetNumerot.csproj", "{D4FE11BE-C576-4111-AC04-46A67CAAABCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelsiusToFahrenheit", "CelsiusToFahrenheit\CelsiusToFahrenheit.csproj", "{A4E37902-6664-4339-8063-35449EC4B280}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{D4FE11BE-C576-4111-AC04-46A67CAAABCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4FE11BE-C576-4111-AC04-46A67CAAABCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4FE11BE-C576-4111-AC04-46A67CAAABCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E37902-6664-4339-8063-35449EC4B280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E37902-6664-4339-8063-35449EC4B280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E37902-6664-4339-8063-35449EC4B280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E37902-6664-4339-8063-35449EC4B280}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
