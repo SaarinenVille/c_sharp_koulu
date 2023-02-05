@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
+            this.OtsikkoLB = new System.Windows.Forms.Label();
             this.Noppa01PB = new System.Windows.Forms.PictureBox();
             this.Noppa02PB = new System.Windows.Forms.PictureBox();
             this.heitaBT = new System.Windows.Forms.Button();
@@ -36,15 +36,15 @@
             ((System.ComponentModel.ISupportInitialize)(this.Noppa02PB)).BeginInit();
             this.SuspendLayout();
             // 
-            // label1
+            // OtsikkoLB
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(570, 51);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(241, 50);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Nopan heitto";
+            this.OtsikkoLB.AutoSize = true;
+            this.OtsikkoLB.Font = new System.Drawing.Font("Imprint MT Shadow", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.OtsikkoLB.Location = new System.Drawing.Point(558, 47);
+            this.OtsikkoLB.Name = "OtsikkoLB";
+            this.OtsikkoLB.Size = new System.Drawing.Size(306, 57);
+            this.OtsikkoLB.TabIndex = 0;
+            this.OtsikkoLB.Text = "Nopan heitto";
             // 
             // Noppa01PB
             // 
@@ -81,11 +81,12 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 30F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.SeaShell;
             this.ClientSize = new System.Drawing.Size(1512, 847);
             this.Controls.Add(this.heitaBT);
             this.Controls.Add(this.Noppa02PB);
             this.Controls.Add(this.Noppa01PB);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.OtsikkoLB);
             this.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
             this.Name = "Form1";
@@ -99,7 +100,7 @@
 
         #endregion
 
-        private Label label1;
+        private Label OtsikkoLB;
         private PictureBox Noppa01PB;
         private PictureBox Noppa02PB;
         private Button heitaBT;
