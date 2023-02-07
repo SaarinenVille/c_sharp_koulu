@@ -1,0 +1,17 @@
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\KymmenenKysymystä\bin\Debug\net6.0-windows\KymmenenKysymystä.exe
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\KymmenenKysymystä\bin\Debug\net6.0-windows\KymmenenKysymystä.deps.json
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\KymmenenKysymystä\bin\Debug\net6.0-windows\KymmenenKysymystä.runtimeconfig.json
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\KymmenenKysymystä\bin\Debug\net6.0-windows\KymmenenKysymystä.dll
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\KymmenenKysymystä\bin\Debug\net6.0-windows\KymmenenKysymystä.pdb
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\KymmenenKysymystä\obj\Debug\net6.0-windows\KymmenenKysymystä.csproj.AssemblyReference.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\KymmenenKysymystä\obj\Debug\net6.0-windows\KymmenenKysymystä.csproj.GenerateResource.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\KymmenenKysymystä\obj\Debug\net6.0-windows\KymmenenKysymystä.GeneratedMSBuildEditorConfig.editorconfig
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\KymmenenKysymystä\obj\Debug\net6.0-windows\KymmenenKysymystä.AssemblyInfoInputs.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\KymmenenKysymystä\obj\Debug\net6.0-windows\KymmenenKysymystä.AssemblyInfo.cs
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\KymmenenKysymystä\obj\Debug\net6.0-windows\KymmenenKysymystä.csproj.CoreCompileInputs.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\KymmenenKysymystä\obj\Debug\net6.0-windows\KymmenenKysymystä.dll
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\KymmenenKysymystä\obj\Debug\net6.0-windows\refint\KymmenenKysymystä.dll
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\KymmenenKysymystä\obj\Debug\net6.0-windows\KymmenenKysymystä.pdb
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\KymmenenKysymystä\obj\Debug\net6.0-windows\KymmenenKysymystä.genruntimeconfig.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\KymmenenKysymystä\obj\Debug\net6.0-windows\ref\KymmenenKysymystä.dll
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\KymmenenKysymystä\obj\Debug\net6.0-windows\KymmenenKysymystä.KymmenenKysymystäForm.resources

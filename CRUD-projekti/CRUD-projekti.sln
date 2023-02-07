@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CelsiusToFahrenheit", "Cels
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PainoIndeksi", "PainoIndeksi\PainoIndeksi.csproj", "{79D03CA6-4F5E-4731-92FC-6A4E251CAE78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NopanHeitto", "NopanHeitto\NopanHeitto.csproj", "{BECD569C-86C7-44B6-ADE6-897A13C0E83D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NopanHeitto", "NopanHeitto\NopanHeitto.csproj", "{BECD569C-86C7-44B6-ADE6-897A13C0E83D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KymmenenKysymystä", "KymmenenKysymystä\KymmenenKysymystä.csproj", "{6EF20182-5984-40FF-B916-D5C4817A65D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{BECD569C-86C7-44B6-ADE6-897A13C0E83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BECD569C-86C7-44B6-ADE6-897A13C0E83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BECD569C-86C7-44B6-ADE6-897A13C0E83D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EF20182-5984-40FF-B916-D5C4817A65D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF20182-5984-40FF-B916-D5C4817A65D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF20182-5984-40FF-B916-D5C4817A65D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF20182-5984-40FF-B916-D5C4817A65D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
