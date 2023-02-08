@@ -11,6 +11,9 @@ namespace NopanHeitto
         {
             piirraNoppa(Noppa01PB);
             piirraNoppa(Noppa02PB);
+            piirraNoppa(Noppa03PB);
+            piirraNoppa(Noppa04PB);
+            piirraNoppa(Noppa05PB);
         }
 
         private void piirraNoppa(PictureBox NoppaBox)
@@ -38,6 +41,15 @@ namespace NopanHeitto
                     NoppaBox.Image= Properties.Resources.dice06;
                     break;
             }
+        }
+
+        private void AlustaBT_Click(object sender, EventArgs e)
+        {
+            Noppa01PB.Image = Properties.Resources.rollingDice;
+            Noppa02PB.Image = Properties.Resources.rollingDice;
+            Noppa03PB.Image = Properties.Resources.rollingDice;
+            Noppa04PB.Image = Properties.Resources.rollingDice;
+            Noppa05PB.Image = Properties.Resources.rollingDice;
         }
     }
 }
