@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuosituimmatNimet", "Suosit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Muistio", "Muistio\Muistio.csproj", "{11A8ABAF-E6AE-4816-AD5E-F3765FD1349C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sekuntikello", "Sekuntikello\Sekuntikello.csproj", "{1AF54A06-64CD-4D2F-9174-4058113B6B44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{11A8ABAF-E6AE-4816-AD5E-F3765FD1349C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11A8ABAF-E6AE-4816-AD5E-F3765FD1349C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11A8ABAF-E6AE-4816-AD5E-F3765FD1349C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AF54A06-64CD-4D2F-9174-4058113B6B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF54A06-64CD-4D2F-9174-4058113B6B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF54A06-64CD-4D2F-9174-4058113B6B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF54A06-64CD-4D2F-9174-4058113B6B44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

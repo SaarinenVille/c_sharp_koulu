@@ -1,0 +1,17 @@
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Sekuntikello\bin\Debug\net6.0-windows\Sekuntikello.exe
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Sekuntikello\bin\Debug\net6.0-windows\Sekuntikello.deps.json
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Sekuntikello\bin\Debug\net6.0-windows\Sekuntikello.runtimeconfig.json
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Sekuntikello\bin\Debug\net6.0-windows\Sekuntikello.dll
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Sekuntikello\bin\Debug\net6.0-windows\Sekuntikello.pdb
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.csproj.AssemblyReference.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.SekuntiKello.resources
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.csproj.GenerateResource.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.GeneratedMSBuildEditorConfig.editorconfig
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.AssemblyInfoInputs.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.AssemblyInfo.cs
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.csproj.CoreCompileInputs.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.dll
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Sekuntikello\obj\Debug\net6.0-windows\refint\Sekuntikello.dll
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.pdb
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Sekuntikello\obj\Debug\net6.0-windows\Sekuntikello.genruntimeconfig.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Sekuntikello\obj\Debug\net6.0-windows\ref\Sekuntikello.dll
