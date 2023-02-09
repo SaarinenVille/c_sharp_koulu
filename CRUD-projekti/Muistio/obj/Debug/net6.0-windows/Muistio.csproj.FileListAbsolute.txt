@@ -1,0 +1,17 @@
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Muistio\bin\Debug\net6.0-windows\Muistio.exe
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Muistio\bin\Debug\net6.0-windows\Muistio.deps.json
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Muistio\bin\Debug\net6.0-windows\Muistio.runtimeconfig.json
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Muistio\bin\Debug\net6.0-windows\Muistio.dll
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Muistio\bin\Debug\net6.0-windows\Muistio.pdb
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Muistio\obj\Debug\net6.0-windows\Muistio.csproj.AssemblyReference.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Muistio\obj\Debug\net6.0-windows\Muistio.Muistio.resources
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Muistio\obj\Debug\net6.0-windows\Muistio.csproj.GenerateResource.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Muistio\obj\Debug\net6.0-windows\Muistio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Muistio\obj\Debug\net6.0-windows\Muistio.AssemblyInfoInputs.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Muistio\obj\Debug\net6.0-windows\Muistio.AssemblyInfo.cs
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Muistio\obj\Debug\net6.0-windows\Muistio.csproj.CoreCompileInputs.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Muistio\obj\Debug\net6.0-windows\Muistio.dll
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Muistio\obj\Debug\net6.0-windows\refint\Muistio.dll
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Muistio\obj\Debug\net6.0-windows\Muistio.pdb
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Muistio\obj\Debug\net6.0-windows\Muistio.genruntimeconfig.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\Muistio\obj\Debug\net6.0-windows\ref\Muistio.dll
