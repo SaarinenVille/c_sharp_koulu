@@ -1,0 +1,17 @@
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SuosituimmatNimet\bin\Debug\net6.0-windows\SuosituimmatNimet.exe
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SuosituimmatNimet\bin\Debug\net6.0-windows\SuosituimmatNimet.deps.json
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SuosituimmatNimet\bin\Debug\net6.0-windows\SuosituimmatNimet.runtimeconfig.json
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SuosituimmatNimet\bin\Debug\net6.0-windows\SuosituimmatNimet.dll
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SuosituimmatNimet\bin\Debug\net6.0-windows\SuosituimmatNimet.pdb
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SuosituimmatNimet\obj\Debug\net6.0-windows\SuosituimmatNimet.csproj.AssemblyReference.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SuosituimmatNimet\obj\Debug\net6.0-windows\SuosituimmatNimet.SuosituimmatNimet.resources
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SuosituimmatNimet\obj\Debug\net6.0-windows\SuosituimmatNimet.csproj.GenerateResource.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SuosituimmatNimet\obj\Debug\net6.0-windows\SuosituimmatNimet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SuosituimmatNimet\obj\Debug\net6.0-windows\SuosituimmatNimet.AssemblyInfoInputs.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SuosituimmatNimet\obj\Debug\net6.0-windows\SuosituimmatNimet.AssemblyInfo.cs
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SuosituimmatNimet\obj\Debug\net6.0-windows\SuosituimmatNimet.csproj.CoreCompileInputs.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SuosituimmatNimet\obj\Debug\net6.0-windows\SuosituimmatNimet.dll
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SuosituimmatNimet\obj\Debug\net6.0-windows\refint\SuosituimmatNimet.dll
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SuosituimmatNimet\obj\Debug\net6.0-windows\SuosituimmatNimet.pdb
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SuosituimmatNimet\obj\Debug\net6.0-windows\SuosituimmatNimet.genruntimeconfig.cache
+E:\Koulu\Ohjelmistokehittäjä\repos\c_sharp_koulu\CRUD-projekti\SuosituimmatNimet\obj\Debug\net6.0-windows\ref\SuosituimmatNimet.dll
