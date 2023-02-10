@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IunG44iprODvwoWyG4ZjGU8NixSGv7dO3zBCDmRuKSaSuhEN3H8Jti7feEfyX9LwfPMyouxpAVdZoge/VoqwSA==",
+  "dgSpecHash": "6zrN0VZmiNicqVghxe39JYeuxdwfOIn45ewPd7CsmnpmGSm2kx0ldq/2DKl1Cr4G/sMWODJFu9Sm0yxTDJvpXg==",
   "success": true,
-  "projectFilePath": "E:\\Koulu\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\CRUD-projekti\\SuosituimmatNimet\\SuosituimmatNimet.csproj",
+  "projectFilePath": "C:\\Users\\Opiskelija\\source\\repos\\c_sharp_koulu\\CRUD-projekti\\SuosituimmatNimet\\SuosituimmatNimet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

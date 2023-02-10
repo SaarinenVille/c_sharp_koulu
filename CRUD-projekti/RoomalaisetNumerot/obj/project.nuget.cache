@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bJqWHneA1RKF3jidONAPek4wBNCeX98aVs0R2nQcLHxHKT3K9Gu33qhTw3wq8V6NO7DXrcU/CK1bmbb906YFAw==",
+  "dgSpecHash": "RK2y5MWT8nwKcDBWCFDOACkSm6PiJBuEUl8tCLp6ETx0lOJPQoWaV0IsgJHvPZeVfWhTI/OGuA+Abs+2npheiQ==",
   "success": true,
-  "projectFilePath": "E:\\Koulu\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\CRUD-projekti\\RoomalaisetNumerot\\RoomalaisetNumerot.csproj",
+  "projectFilePath": "C:\\Users\\Opiskelija\\source\\repos\\c_sharp_koulu\\CRUD-projekti\\RoomalaisetNumerot\\RoomalaisetNumerot.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

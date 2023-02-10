@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MRlbtz7DFOnjo7f4ZwRkHnAPYlLzsvn0qET+05szvL+zCpMBjPSubrq9qnpYgUuADnm0sUe0keXe0+25ZAOAgA==",
+  "dgSpecHash": "XPUu/6Zzer2SgaXB/UfoAStu4MPhAKWMTxmMXkVTBxFVgcQmcp3D6Nz4QpjgptOUEnxb3qbst6zZTawuX9/5jw==",
   "success": true,
-  "projectFilePath": "E:\\Koulu\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\CRUD-projekti\\AutoKuluLaskuri\\AutoKuluLaskuri.csproj",
+  "projectFilePath": "C:\\Users\\Opiskelija\\source\\repos\\c_sharp_koulu\\CRUD-projekti\\AutoKuluLaskuri\\AutoKuluLaskuri.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

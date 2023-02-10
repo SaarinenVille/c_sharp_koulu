@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TH0KjTFpSh1xWSGlJdDpPy22+ZnqDQrfPi1hH1pbiLve9XLq/R1dww2Qyp3WVVXYlofdUVJuyXt9XqWXufjJRA==",
+  "dgSpecHash": "mOlD4wfbSvZis/GKIz3iupHPloWgQH2DunipSvf1bcPUwbHHMuNM0ScQ1RfTFIe9a3Z5lN4PAJDRDWc7H0rj9A==",
   "success": true,
-  "projectFilePath": "E:\\Koulu\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\CRUD-projekti\\SalasananTarkastus\\SalasananTarkastus.csproj",
+  "projectFilePath": "C:\\Users\\Opiskelija\\source\\repos\\c_sharp_koulu\\CRUD-projekti\\SalasananTarkastus\\SalasananTarkastus.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

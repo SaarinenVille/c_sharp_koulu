@@ -1,0 +1,17 @@
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\Ajastin\bin\Debug\net6.0-windows\Ajastin.exe
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\Ajastin\bin\Debug\net6.0-windows\Ajastin.deps.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\Ajastin\bin\Debug\net6.0-windows\Ajastin.runtimeconfig.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\Ajastin\bin\Debug\net6.0-windows\Ajastin.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\Ajastin\bin\Debug\net6.0-windows\Ajastin.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\Ajastin\obj\Debug\net6.0-windows\Ajastin.csproj.AssemblyReference.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\Ajastin\obj\Debug\net6.0-windows\Ajastin.AjastinForm.resources
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\Ajastin\obj\Debug\net6.0-windows\Ajastin.csproj.GenerateResource.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\Ajastin\obj\Debug\net6.0-windows\Ajastin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\Ajastin\obj\Debug\net6.0-windows\Ajastin.AssemblyInfoInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\Ajastin\obj\Debug\net6.0-windows\Ajastin.AssemblyInfo.cs
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\Ajastin\obj\Debug\net6.0-windows\Ajastin.csproj.CoreCompileInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\Ajastin\obj\Debug\net6.0-windows\Ajastin.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\Ajastin\obj\Debug\net6.0-windows\refint\Ajastin.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\Ajastin\obj\Debug\net6.0-windows\Ajastin.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\Ajastin\obj\Debug\net6.0-windows\Ajastin.genruntimeconfig.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\Ajastin\obj\Debug\net6.0-windows\ref\Ajastin.dll

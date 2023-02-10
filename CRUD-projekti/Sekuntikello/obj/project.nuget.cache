@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "twIdD+z+AIMaRpts0ii77dsq6VWCj6e9IcnxjVVpverEILC/98F2rYZViLJLFcI6qzeA9xi5+Yu1a1/ZoD2bTw==",
+  "dgSpecHash": "24vMQENC4G931J/vLX933kOLxLoUOp/RjdjxgAaesstg28zP7YQBz8D/b8CORoQE/AjGOCUv6AzMrn83FMGuEg==",
   "success": true,
-  "projectFilePath": "E:\\Koulu\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\CRUD-projekti\\Sekuntikello\\Sekuntikello.csproj",
+  "projectFilePath": "C:\\Users\\Opiskelija\\source\\repos\\c_sharp_koulu\\CRUD-projekti\\Sekuntikello\\Sekuntikello.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

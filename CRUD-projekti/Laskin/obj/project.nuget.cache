@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BrIaWLKlwIs3BjzF1F84ZiMQ9+7jFyHKV8TZshuzwvOKbKq0gCZio3hQhkUHU6oeukA4EM+xc+b44nWT3Zkrmg==",
+  "dgSpecHash": "iHIC2Z4ZbA/ZQXHf/rwhJzpiaq311hsVYDSROzkOze+/x0TWDKeCOOkM1Vsi1AnbJBZibIHRa/IKDeKbxUK+HA==",
   "success": true,
-  "projectFilePath": "E:\\Koulu\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\CRUD-projekti\\Laskin\\Laskin.csproj",
+  "projectFilePath": "C:\\Users\\Opiskelija\\source\\repos\\c_sharp_koulu\\CRUD-projekti\\Laskin\\Laskin.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

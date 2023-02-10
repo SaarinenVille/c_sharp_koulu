@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hW461JsEllsVGAELYeZFu7Ph8jKt9a+wstxLL9hgLgnGcBfkGCXen2LMap496UWqofXBmWvkrpqmBWli1QIF6w==",
+  "dgSpecHash": "dywky4s6F+DFsJtAMaTSzlyl1U87wJ0AH31I8mY7omtXi2QZw57SocBJMqlx03ClqwZGgR+ulucq7bBZhV3Q3g==",
   "success": true,
-  "projectFilePath": "E:\\Koulu\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\CRUD-projekti\\Ikalaskuri\\Ikalaskuri.csproj",
+  "projectFilePath": "C:\\Users\\Opiskelija\\source\\repos\\c_sharp_koulu\\CRUD-projekti\\Ikalaskuri\\Ikalaskuri.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
