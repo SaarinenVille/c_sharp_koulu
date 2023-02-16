@@ -1,0 +1,17 @@
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\OppilaitostenTiedot\bin\Debug\net6.0-windows\OppilaitostenTiedot.exe
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\OppilaitostenTiedot\bin\Debug\net6.0-windows\OppilaitostenTiedot.deps.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\OppilaitostenTiedot\bin\Debug\net6.0-windows\OppilaitostenTiedot.runtimeconfig.json
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\OppilaitostenTiedot\bin\Debug\net6.0-windows\OppilaitostenTiedot.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\OppilaitostenTiedot\bin\Debug\net6.0-windows\OppilaitostenTiedot.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\OppilaitostenTiedot\obj\Debug\net6.0-windows\OppilaitostenTiedot.csproj.AssemblyReference.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\OppilaitostenTiedot\obj\Debug\net6.0-windows\OppilaitostenTiedot.csproj.GenerateResource.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\OppilaitostenTiedot\obj\Debug\net6.0-windows\OppilaitostenTiedot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\OppilaitostenTiedot\obj\Debug\net6.0-windows\OppilaitostenTiedot.AssemblyInfoInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\OppilaitostenTiedot\obj\Debug\net6.0-windows\OppilaitostenTiedot.AssemblyInfo.cs
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\OppilaitostenTiedot\obj\Debug\net6.0-windows\OppilaitostenTiedot.csproj.CoreCompileInputs.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\OppilaitostenTiedot\obj\Debug\net6.0-windows\OppilaitostenTiedot.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\OppilaitostenTiedot\obj\Debug\net6.0-windows\refint\OppilaitostenTiedot.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\OppilaitostenTiedot\obj\Debug\net6.0-windows\OppilaitostenTiedot.pdb
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\OppilaitostenTiedot\obj\Debug\net6.0-windows\OppilaitostenTiedot.genruntimeconfig.cache
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\OppilaitostenTiedot\obj\Debug\net6.0-windows\ref\OppilaitostenTiedot.dll
+C:\Users\Opiskelija\source\repos\c_sharp_koulu\CRUD-projekti\OppilaitostenTiedot\obj\Debug\net6.0-windows\OppilaitostenTiedot.AvainhenkilotForm.resources

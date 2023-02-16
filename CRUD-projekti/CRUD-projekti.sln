@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sekuntikello", "Sekuntikell
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ajastin", "Ajastin\Ajastin.csproj", "{0D978AAD-AB3C-4F61-8D4D-028725F71B17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notepad", "Notepad\Notepad.csproj", "{0AE44199-DD39-442C-895A-4E1A0388C3E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notepad", "Notepad\Notepad.csproj", "{0AE44199-DD39-442C-895A-4E1A0388C3E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OppilaitostenTiedot", "OppilaitostenTiedot\OppilaitostenTiedot.csproj", "{D5C8F15F-825E-4C74-A670-32FD7F598E6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{0AE44199-DD39-442C-895A-4E1A0388C3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AE44199-DD39-442C-895A-4E1A0388C3E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AE44199-DD39-442C-895A-4E1A0388C3E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C8F15F-825E-4C74-A670-32FD7F598E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C8F15F-825E-4C74-A670-32FD7F598E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C8F15F-825E-4C74-A670-32FD7F598E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C8F15F-825E-4C74-A670-32FD7F598E6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
