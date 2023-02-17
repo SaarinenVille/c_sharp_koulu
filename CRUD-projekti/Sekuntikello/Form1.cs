@@ -32,7 +32,7 @@ namespace Sekuntikello
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            TimeLB.Text = string.Format("{0:hh\\:mm\\:ss\\:fff}", stopWatch.Elapsed);
+            TimeLB.Text = string.Format("{0:hh\\:mm\\:ss\\:ff}", stopWatch.Elapsed);
         }
     }
 }

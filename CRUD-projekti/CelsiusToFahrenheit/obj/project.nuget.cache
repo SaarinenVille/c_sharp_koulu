@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "niFrU4ckTrtgxNhYRUrQKc5r/tHniWgFauj1vEoGjkvKRlBxFdtZrIrxVj1TPqswbHcrXpkmjNNtcjHhV8OapQ==",
+  "dgSpecHash": "5MKRLXMBuBqFSIpO6/dU62YB6u0WAE3fD214QRkqGpw0kAKPFxSqD1V18g8axXpeE8y5QvkxIvlMXo5jeQOSrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Opiskelija\\source\\repos\\c_sharp_koulu\\CRUD-projekti\\CelsiusToFahrenheit\\CelsiusToFahrenheit.csproj",
+  "projectFilePath": "E:\\Koulu\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\CRUD-projekti\\CelsiusToFahrenheit\\CelsiusToFahrenheit.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

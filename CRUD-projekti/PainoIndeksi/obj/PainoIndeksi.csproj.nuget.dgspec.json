@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Opiskelija\\source\\repos\\c_sharp_koulu\\CRUD-projekti\\PainoIndeksi\\PainoIndeksi.csproj": {}
+    "E:\\Koulu\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\CRUD-projekti\\PainoIndeksi\\PainoIndeksi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Opiskelija\\source\\repos\\c_sharp_koulu\\CRUD-projekti\\PainoIndeksi\\PainoIndeksi.csproj": {
+    "E:\\Koulu\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\CRUD-projekti\\PainoIndeksi\\PainoIndeksi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Opiskelija\\source\\repos\\c_sharp_koulu\\CRUD-projekti\\PainoIndeksi\\PainoIndeksi.csproj",
+        "projectUniqueName": "E:\\Koulu\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\CRUD-projekti\\PainoIndeksi\\PainoIndeksi.csproj",
         "projectName": "PainoIndeksi",
-        "projectPath": "C:\\Users\\Opiskelija\\source\\repos\\c_sharp_koulu\\CRUD-projekti\\PainoIndeksi\\PainoIndeksi.csproj",
-        "packagesPath": "C:\\Users\\Opiskelija\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Opiskelija\\source\\repos\\c_sharp_koulu\\CRUD-projekti\\PainoIndeksi\\obj\\",
+        "projectPath": "E:\\Koulu\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\CRUD-projekti\\PainoIndeksi\\PainoIndeksi.csproj",
+        "packagesPath": "C:\\Users\\ville\\.nuget\\packages\\",
+        "outputPath": "E:\\Koulu\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\CRUD-projekti\\PainoIndeksi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Opiskelija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ville\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

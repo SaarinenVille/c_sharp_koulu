@@ -44,7 +44,7 @@
             this.TimeLB.Name = "TimeLB";
             this.TimeLB.Size = new System.Drawing.Size(481, 104);
             this.TimeLB.TabIndex = 0;
-            this.TimeLB.Text = "00:00:00.000";
+            this.TimeLB.Text = "00:00:00.00";
             this.TimeLB.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // StartBT

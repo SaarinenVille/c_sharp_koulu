@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2mKGlNvkcdvfTK3pzCMaXBpXSFbIhKrvkt9WtJ5pHvplSShoOAtg+U0IWet4wRU2DPefxrLOuhRAp5WzeqMHhw==",
+  "dgSpecHash": "AnpzPDwGaHdavYX7H7P0lmjysJNUZ6mEdGZ9yTcaWtY8iHTQCkAR+htv5i6/EFtSRvyG4l96vmx2etaZesQzyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Opiskelija\\source\\repos\\c_sharp_koulu\\CRUD-projekti\\PainoIndeksi\\PainoIndeksi.csproj",
+  "projectFilePath": "E:\\Koulu\\Ohjelmistokehittäjä\\repos\\c_sharp_koulu\\CRUD-projekti\\PainoIndeksi\\PainoIndeksi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
