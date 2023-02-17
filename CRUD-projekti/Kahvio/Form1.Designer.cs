@@ -276,9 +276,9 @@
             this.OtsikkoLB.Location = new System.Drawing.Point(114, 14);
             this.OtsikkoLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.OtsikkoLB.Name = "OtsikkoLB";
-            this.OtsikkoLB.Size = new System.Drawing.Size(442, 41);
+            this.OtsikkoLB.Size = new System.Drawing.Size(455, 41);
             this.OtsikkoLB.TabIndex = 0;
-            this.OtsikkoLB.Text = "Keudan oppilakunnan kahvila";
+            this.OtsikkoLB.Text = "Keudan oppilaskunnan kahvila";
             // 
             // MeistaPL
             // 
