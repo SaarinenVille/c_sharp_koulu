@@ -94,8 +94,9 @@
             this.VasenPL.Controls.Add(this.KoriBT);
             this.VasenPL.Dock = System.Windows.Forms.DockStyle.Left;
             this.VasenPL.Location = new System.Drawing.Point(0, 0);
+            this.VasenPL.Margin = new System.Windows.Forms.Padding(4);
             this.VasenPL.Name = "VasenPL";
-            this.VasenPL.Size = new System.Drawing.Size(182, 482);
+            this.VasenPL.Size = new System.Drawing.Size(222, 558);
             this.VasenPL.TabIndex = 0;
             // 
             // ExitBT
@@ -103,9 +104,11 @@
             this.ExitBT.BackColor = System.Drawing.Color.Red;
             this.ExitBT.FlatAppearance.BorderSize = 0;
             this.ExitBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.ExitBT.Location = new System.Drawing.Point(12, 12);
+            this.ExitBT.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.ExitBT.Location = new System.Drawing.Point(15, 14);
+            this.ExitBT.Margin = new System.Windows.Forms.Padding(4);
             this.ExitBT.Name = "ExitBT";
-            this.ExitBT.Size = new System.Drawing.Size(35, 28);
+            this.ExitBT.Size = new System.Drawing.Size(27, 28);
             this.ExitBT.TabIndex = 7;
             this.ExitBT.Text = "X";
             this.ExitBT.UseVisualStyleBackColor = false;
@@ -114,20 +117,23 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(218)))), ((int)(((byte)(45)))));
-            this.panel1.Location = new System.Drawing.Point(5, 84);
+            this.panel1.Location = new System.Drawing.Point(6, 100);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(12, 50);
+            this.panel1.Size = new System.Drawing.Size(15, 60);
             this.panel1.TabIndex = 1;
             // 
             // MeistaBT
             // 
             this.MeistaBT.FlatAppearance.BorderSize = 0;
             this.MeistaBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.MeistaBT.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.MeistaBT.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.MeistaBT.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.MeistaBT.Image = global::Kahvio.Properties.Resources.info;
-            this.MeistaBT.Location = new System.Drawing.Point(0, 84);
+            this.MeistaBT.Location = new System.Drawing.Point(0, 100);
+            this.MeistaBT.Margin = new System.Windows.Forms.Padding(4);
             this.MeistaBT.Name = "MeistaBT";
-            this.MeistaBT.Size = new System.Drawing.Size(188, 50);
+            this.MeistaBT.Size = new System.Drawing.Size(222, 60);
             this.MeistaBT.TabIndex = 0;
             this.MeistaBT.Text = "Meistä";
             this.MeistaBT.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -138,19 +144,22 @@
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(218)))), ((int)(((byte)(45)))));
-            this.panel2.Location = new System.Drawing.Point(5, 159);
+            this.panel2.Location = new System.Drawing.Point(6, 189);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(12, 50);
+            this.panel2.Size = new System.Drawing.Size(15, 60);
             this.panel2.TabIndex = 3;
             // 
             // RuoatBT
             // 
             this.RuoatBT.FlatAppearance.BorderSize = 0;
             this.RuoatBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.RuoatBT.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.RuoatBT.Image = global::Kahvio.Properties.Resources.cutlery;
-            this.RuoatBT.Location = new System.Drawing.Point(3, 159);
+            this.RuoatBT.Location = new System.Drawing.Point(4, 189);
+            this.RuoatBT.Margin = new System.Windows.Forms.Padding(4);
             this.RuoatBT.Name = "RuoatBT";
-            this.RuoatBT.Size = new System.Drawing.Size(188, 50);
+            this.RuoatBT.Size = new System.Drawing.Size(218, 60);
             this.RuoatBT.TabIndex = 2;
             this.RuoatBT.Text = "Ruoat";
             this.RuoatBT.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -161,19 +170,22 @@
             // panel3
             // 
             this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(218)))), ((int)(((byte)(45)))));
-            this.panel3.Location = new System.Drawing.Point(5, 233);
+            this.panel3.Location = new System.Drawing.Point(6, 277);
+            this.panel3.Margin = new System.Windows.Forms.Padding(4);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(12, 50);
+            this.panel3.Size = new System.Drawing.Size(15, 60);
             this.panel3.TabIndex = 4;
             // 
             // JuomatBT
             // 
             this.JuomatBT.FlatAppearance.BorderSize = 0;
             this.JuomatBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.JuomatBT.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.JuomatBT.Image = global::Kahvio.Properties.Resources.coffee;
-            this.JuomatBT.Location = new System.Drawing.Point(0, 233);
+            this.JuomatBT.Location = new System.Drawing.Point(0, 277);
+            this.JuomatBT.Margin = new System.Windows.Forms.Padding(4);
             this.JuomatBT.Name = "JuomatBT";
-            this.JuomatBT.Size = new System.Drawing.Size(188, 50);
+            this.JuomatBT.Size = new System.Drawing.Size(222, 60);
             this.JuomatBT.TabIndex = 4;
             this.JuomatBT.Text = "Juomat";
             this.JuomatBT.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -184,19 +196,22 @@
             // panel4
             // 
             this.panel4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(218)))), ((int)(((byte)(45)))));
-            this.panel4.Location = new System.Drawing.Point(5, 309);
+            this.panel4.Location = new System.Drawing.Point(6, 368);
+            this.panel4.Margin = new System.Windows.Forms.Padding(4);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(12, 50);
+            this.panel4.Size = new System.Drawing.Size(15, 60);
             this.panel4.TabIndex = 4;
             // 
             // HerkutBT
             // 
             this.HerkutBT.FlatAppearance.BorderSize = 0;
             this.HerkutBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.HerkutBT.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.HerkutBT.Image = global::Kahvio.Properties.Resources.desserts;
-            this.HerkutBT.Location = new System.Drawing.Point(0, 309);
+            this.HerkutBT.Location = new System.Drawing.Point(0, 368);
+            this.HerkutBT.Margin = new System.Windows.Forms.Padding(4);
             this.HerkutBT.Name = "HerkutBT";
-            this.HerkutBT.Size = new System.Drawing.Size(188, 50);
+            this.HerkutBT.Size = new System.Drawing.Size(222, 60);
             this.HerkutBT.TabIndex = 5;
             this.HerkutBT.Text = "Herkut";
             this.HerkutBT.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -207,19 +222,22 @@
             // panel5
             // 
             this.panel5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(218)))), ((int)(((byte)(45)))));
-            this.panel5.Location = new System.Drawing.Point(5, 382);
+            this.panel5.Location = new System.Drawing.Point(6, 455);
+            this.panel5.Margin = new System.Windows.Forms.Padding(4);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(12, 50);
+            this.panel5.Size = new System.Drawing.Size(15, 60);
             this.panel5.TabIndex = 4;
             // 
             // KoriBT
             // 
             this.KoriBT.FlatAppearance.BorderSize = 0;
             this.KoriBT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.KoriBT.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.KoriBT.Image = global::Kahvio.Properties.Resources.picnic_basket;
-            this.KoriBT.Location = new System.Drawing.Point(0, 382);
+            this.KoriBT.Location = new System.Drawing.Point(0, 455);
+            this.KoriBT.Margin = new System.Windows.Forms.Padding(4);
             this.KoriBT.Name = "KoriBT";
-            this.KoriBT.Size = new System.Drawing.Size(188, 50);
+            this.KoriBT.Size = new System.Drawing.Size(222, 60);
             this.KoriBT.TabIndex = 6;
             this.KoriBT.Text = "Kori";
             this.KoriBT.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -233,17 +251,19 @@
             this.YlaPL.Controls.Add(this.pictureBox1);
             this.YlaPL.Controls.Add(this.OtsikkoLB);
             this.YlaPL.Dock = System.Windows.Forms.DockStyle.Top;
-            this.YlaPL.Location = new System.Drawing.Point(182, 0);
+            this.YlaPL.Location = new System.Drawing.Point(222, 0);
+            this.YlaPL.Margin = new System.Windows.Forms.Padding(4);
             this.YlaPL.Name = "YlaPL";
-            this.YlaPL.Size = new System.Drawing.Size(604, 66);
+            this.YlaPL.Size = new System.Drawing.Size(736, 71);
             this.YlaPL.TabIndex = 1;
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Kahvio.Properties.Resources.cook_hat;
-            this.pictureBox1.Location = new System.Drawing.Point(527, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(637, 14);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(46, 42);
+            this.pictureBox1.Size = new System.Drawing.Size(56, 50);
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
@@ -253,7 +273,8 @@
             this.OtsikkoLB.Font = new System.Drawing.Font("MV Boli", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.OtsikkoLB.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.OtsikkoLB.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.OtsikkoLB.Location = new System.Drawing.Point(60, 12);
+            this.OtsikkoLB.Location = new System.Drawing.Point(114, 14);
+            this.OtsikkoLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.OtsikkoLB.Name = "OtsikkoLB";
             this.OtsikkoLB.Size = new System.Drawing.Size(442, 41);
             this.OtsikkoLB.TabIndex = 0;
@@ -263,17 +284,19 @@
             // 
             this.MeistaPL.Controls.Add(this.MeistaLB);
             this.MeistaPL.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.MeistaPL.Location = new System.Drawing.Point(182, 66);
+            this.MeistaPL.Location = new System.Drawing.Point(222, 71);
+            this.MeistaPL.Margin = new System.Windows.Forms.Padding(4);
             this.MeistaPL.Name = "MeistaPL";
-            this.MeistaPL.Size = new System.Drawing.Size(604, 416);
+            this.MeistaPL.Size = new System.Drawing.Size(736, 487);
             this.MeistaPL.TabIndex = 2;
             // 
             // MeistaLB
             // 
             this.MeistaLB.AutoSize = true;
-            this.MeistaLB.Location = new System.Drawing.Point(18, 18);
+            this.MeistaLB.Location = new System.Drawing.Point(22, 21);
+            this.MeistaLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.MeistaLB.Name = "MeistaLB";
-            this.MeistaLB.Size = new System.Drawing.Size(52, 21);
+            this.MeistaLB.Size = new System.Drawing.Size(63, 25);
             this.MeistaLB.TabIndex = 0;
             this.MeistaLB.Text = "label1";
             // 
@@ -286,16 +309,18 @@
             this.RuoatPL.Controls.Add(this.MakeatOtsikkoLB);
             this.RuoatPL.Controls.Add(this.SuolaiseOtsikkotLB);
             this.RuoatPL.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.RuoatPL.Location = new System.Drawing.Point(182, 66);
+            this.RuoatPL.Location = new System.Drawing.Point(222, 71);
+            this.RuoatPL.Margin = new System.Windows.Forms.Padding(4);
             this.RuoatPL.Name = "RuoatPL";
-            this.RuoatPL.Size = new System.Drawing.Size(604, 416);
+            this.RuoatPL.Size = new System.Drawing.Size(736, 487);
             this.RuoatPL.TabIndex = 3;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Baskerville Old Face", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(542, 105);
+            this.label1.Location = new System.Drawing.Point(662, 125);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(35, 96);
             this.label1.TabIndex = 5;
@@ -305,7 +330,8 @@
             // 
             this.SuolaisetHinnatLB.AutoSize = true;
             this.SuolaisetHinnatLB.Font = new System.Drawing.Font("Baskerville Old Face", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.SuolaisetHinnatLB.Location = new System.Drawing.Point(199, 104);
+            this.SuolaisetHinnatLB.Location = new System.Drawing.Point(243, 124);
+            this.SuolaisetHinnatLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.SuolaisetHinnatLB.Name = "SuolaisetHinnatLB";
             this.SuolaisetHinnatLB.Size = new System.Drawing.Size(35, 96);
             this.SuolaisetHinnatLB.TabIndex = 4;
@@ -315,7 +341,8 @@
             // 
             this.MakeatLB.AutoSize = true;
             this.MakeatLB.Font = new System.Drawing.Font("Baskerville Old Face", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.MakeatLB.Location = new System.Drawing.Point(319, 105);
+            this.MakeatLB.Location = new System.Drawing.Point(390, 125);
+            this.MakeatLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.MakeatLB.Name = "MakeatLB";
             this.MakeatLB.Size = new System.Drawing.Size(212, 96);
             this.MakeatLB.TabIndex = 3;
@@ -326,7 +353,8 @@
             // 
             this.SuolaisetLB.AutoSize = true;
             this.SuolaisetLB.Font = new System.Drawing.Font("Baskerville Old Face", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.SuolaisetLB.Location = new System.Drawing.Point(18, 103);
+            this.SuolaisetLB.Location = new System.Drawing.Point(22, 123);
+            this.SuolaisetLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.SuolaisetLB.Name = "SuolaisetLB";
             this.SuolaisetLB.Size = new System.Drawing.Size(161, 96);
             this.SuolaisetLB.TabIndex = 2;
@@ -337,7 +365,8 @@
             // 
             this.MakeatOtsikkoLB.AutoSize = true;
             this.MakeatOtsikkoLB.Font = new System.Drawing.Font("Baskerville Old Face", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.MakeatOtsikkoLB.Location = new System.Drawing.Point(330, 52);
+            this.MakeatOtsikkoLB.Location = new System.Drawing.Point(403, 62);
+            this.MakeatOtsikkoLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.MakeatOtsikkoLB.Name = "MakeatOtsikkoLB";
             this.MakeatOtsikkoLB.Size = new System.Drawing.Size(94, 31);
             this.MakeatOtsikkoLB.TabIndex = 1;
@@ -347,7 +376,8 @@
             // 
             this.SuolaiseOtsikkotLB.AutoSize = true;
             this.SuolaiseOtsikkotLB.Font = new System.Drawing.Font("Baskerville Old Face", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.SuolaiseOtsikkotLB.Location = new System.Drawing.Point(41, 52);
+            this.SuolaiseOtsikkotLB.Location = new System.Drawing.Point(50, 62);
+            this.SuolaiseOtsikkotLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.SuolaiseOtsikkotLB.Name = "SuolaiseOtsikkotLB";
             this.SuolaiseOtsikkotLB.Size = new System.Drawing.Size(111, 31);
             this.SuolaiseOtsikkotLB.TabIndex = 0;
@@ -362,16 +392,18 @@
             this.JuomatPL.Controls.Add(this.KylmatOtsikkoLB);
             this.JuomatPL.Controls.Add(this.LampimatOtsikkoLB);
             this.JuomatPL.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.JuomatPL.Location = new System.Drawing.Point(182, 66);
+            this.JuomatPL.Location = new System.Drawing.Point(222, 71);
+            this.JuomatPL.Margin = new System.Windows.Forms.Padding(4);
             this.JuomatPL.Name = "JuomatPL";
-            this.JuomatPL.Size = new System.Drawing.Size(604, 416);
+            this.JuomatPL.Size = new System.Drawing.Size(736, 487);
             this.JuomatPL.TabIndex = 4;
             // 
             // KylmatHinnatLB
             // 
             this.KylmatHinnatLB.AutoSize = true;
             this.KylmatHinnatLB.Font = new System.Drawing.Font("Baskerville Old Face", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.KylmatHinnatLB.Location = new System.Drawing.Point(500, 105);
+            this.KylmatHinnatLB.Location = new System.Drawing.Point(637, 125);
+            this.KylmatHinnatLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.KylmatHinnatLB.Name = "KylmatHinnatLB";
             this.KylmatHinnatLB.Size = new System.Drawing.Size(60, 120);
             this.KylmatHinnatLB.TabIndex = 5;
@@ -381,7 +413,8 @@
             // 
             this.LampimatHinnatLB.AutoSize = true;
             this.LampimatHinnatLB.Font = new System.Drawing.Font("Baskerville Old Face", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.LampimatHinnatLB.Location = new System.Drawing.Point(169, 105);
+            this.LampimatHinnatLB.Location = new System.Drawing.Point(207, 125);
+            this.LampimatHinnatLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LampimatHinnatLB.Name = "LampimatHinnatLB";
             this.LampimatHinnatLB.Size = new System.Drawing.Size(35, 120);
             this.LampimatHinnatLB.TabIndex = 4;
@@ -391,7 +424,8 @@
             // 
             this.KylmatLB.AutoSize = true;
             this.KylmatLB.Font = new System.Drawing.Font("Baskerville Old Face", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.KylmatLB.Location = new System.Drawing.Point(320, 105);
+            this.KylmatLB.Location = new System.Drawing.Point(391, 125);
+            this.KylmatLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.KylmatLB.Name = "KylmatLB";
             this.KylmatLB.Size = new System.Drawing.Size(146, 120);
             this.KylmatLB.TabIndex = 3;
@@ -401,7 +435,8 @@
             // 
             this.LampimatLB.AutoSize = true;
             this.LampimatLB.Font = new System.Drawing.Font("Baskerville Old Face", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.LampimatLB.Location = new System.Drawing.Point(18, 105);
+            this.LampimatLB.Location = new System.Drawing.Point(22, 125);
+            this.LampimatLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LampimatLB.Name = "LampimatLB";
             this.LampimatLB.Size = new System.Drawing.Size(116, 120);
             this.LampimatLB.TabIndex = 2;
@@ -411,7 +446,8 @@
             // 
             this.KylmatOtsikkoLB.AutoSize = true;
             this.KylmatOtsikkoLB.Font = new System.Drawing.Font("Baskerville Old Face", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.KylmatOtsikkoLB.Location = new System.Drawing.Point(330, 52);
+            this.KylmatOtsikkoLB.Location = new System.Drawing.Point(403, 62);
+            this.KylmatOtsikkoLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.KylmatOtsikkoLB.Name = "KylmatOtsikkoLB";
             this.KylmatOtsikkoLB.Size = new System.Drawing.Size(92, 31);
             this.KylmatOtsikkoLB.TabIndex = 1;
@@ -421,7 +457,8 @@
             // 
             this.LampimatOtsikkoLB.AutoSize = true;
             this.LampimatOtsikkoLB.Font = new System.Drawing.Font("Baskerville Old Face", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.LampimatOtsikkoLB.Location = new System.Drawing.Point(41, 52);
+            this.LampimatOtsikkoLB.Location = new System.Drawing.Point(50, 62);
+            this.LampimatOtsikkoLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LampimatOtsikkoLB.Name = "LampimatOtsikkoLB";
             this.LampimatOtsikkoLB.Size = new System.Drawing.Size(126, 31);
             this.LampimatOtsikkoLB.TabIndex = 0;
@@ -436,16 +473,18 @@
             this.HerkutPL.Controls.Add(this.MuutOtsikkoLB);
             this.HerkutPL.Controls.Add(this.MakeisetOtsikkoLB);
             this.HerkutPL.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.HerkutPL.Location = new System.Drawing.Point(182, 66);
+            this.HerkutPL.Location = new System.Drawing.Point(222, 71);
+            this.HerkutPL.Margin = new System.Windows.Forms.Padding(4);
             this.HerkutPL.Name = "HerkutPL";
-            this.HerkutPL.Size = new System.Drawing.Size(604, 416);
+            this.HerkutPL.Size = new System.Drawing.Size(736, 487);
             this.HerkutPL.TabIndex = 5;
             // 
             // MuutHinnatLB
             // 
             this.MuutHinnatLB.AutoSize = true;
             this.MuutHinnatLB.Font = new System.Drawing.Font("Baskerville Old Face", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.MuutHinnatLB.Location = new System.Drawing.Point(522, 104);
+            this.MuutHinnatLB.Location = new System.Drawing.Point(638, 124);
+            this.MuutHinnatLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.MuutHinnatLB.Name = "MuutHinnatLB";
             this.MuutHinnatLB.Size = new System.Drawing.Size(60, 168);
             this.MuutHinnatLB.TabIndex = 5;
@@ -455,7 +494,8 @@
             // 
             this.MuutLB.AutoSize = true;
             this.MuutLB.Font = new System.Drawing.Font("Baskerville Old Face", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.MuutLB.Location = new System.Drawing.Point(371, 103);
+            this.MuutLB.Location = new System.Drawing.Point(453, 123);
+            this.MuutLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.MuutLB.Name = "MuutLB";
             this.MuutLB.Size = new System.Drawing.Size(140, 144);
             this.MuutLB.TabIndex = 4;
@@ -466,7 +506,8 @@
             // 
             this.MakeisetHinnatLB.AutoSize = true;
             this.MakeisetHinnatLB.Font = new System.Drawing.Font("Baskerville Old Face", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.MakeisetHinnatLB.Location = new System.Drawing.Point(279, 103);
+            this.MakeisetHinnatLB.Location = new System.Drawing.Point(341, 123);
+            this.MakeisetHinnatLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.MakeisetHinnatLB.Name = "MakeisetHinnatLB";
             this.MakeisetHinnatLB.Size = new System.Drawing.Size(60, 144);
             this.MakeisetHinnatLB.TabIndex = 3;
@@ -476,7 +517,8 @@
             // 
             this.MakeisetLB.AutoSize = true;
             this.MakeisetLB.Font = new System.Drawing.Font("Baskerville Old Face", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.MakeisetLB.Location = new System.Drawing.Point(15, 103);
+            this.MakeisetLB.Location = new System.Drawing.Point(18, 123);
+            this.MakeisetLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.MakeisetLB.Name = "MakeisetLB";
             this.MakeisetLB.Size = new System.Drawing.Size(258, 144);
             this.MakeisetLB.TabIndex = 2;
@@ -487,7 +529,8 @@
             // 
             this.MuutOtsikkoLB.AutoSize = true;
             this.MuutOtsikkoLB.Font = new System.Drawing.Font("Baskerville Old Face", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.MuutOtsikkoLB.Location = new System.Drawing.Point(395, 53);
+            this.MuutOtsikkoLB.Location = new System.Drawing.Point(483, 63);
+            this.MuutOtsikkoLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.MuutOtsikkoLB.Name = "MuutOtsikkoLB";
             this.MuutOtsikkoLB.Size = new System.Drawing.Size(73, 31);
             this.MuutOtsikkoLB.TabIndex = 1;
@@ -497,7 +540,8 @@
             // 
             this.MakeisetOtsikkoLB.AutoSize = true;
             this.MakeisetOtsikkoLB.Font = new System.Drawing.Font("Baskerville Old Face", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.MakeisetOtsikkoLB.Location = new System.Drawing.Point(41, 53);
+            this.MakeisetOtsikkoLB.Location = new System.Drawing.Point(50, 63);
+            this.MakeisetOtsikkoLB.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.MakeisetOtsikkoLB.Name = "MakeisetOtsikkoLB";
             this.MakeisetOtsikkoLB.Size = new System.Drawing.Size(111, 31);
             this.MakeisetOtsikkoLB.TabIndex = 0;
@@ -507,16 +551,18 @@
             // 
             this.KoriPL.Controls.Add(this.label2);
             this.KoriPL.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.KoriPL.Location = new System.Drawing.Point(182, 66);
+            this.KoriPL.Location = new System.Drawing.Point(222, 71);
+            this.KoriPL.Margin = new System.Windows.Forms.Padding(4);
             this.KoriPL.Name = "KoriPL";
-            this.KoriPL.Size = new System.Drawing.Size(604, 416);
+            this.KoriPL.Size = new System.Drawing.Size(736, 487);
             this.KoriPL.TabIndex = 6;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label2.Location = new System.Drawing.Point(29, 30);
+            this.label2.Location = new System.Drawing.Point(35, 36);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(306, 22);
             this.label2.TabIndex = 0;
@@ -524,21 +570,22 @@
             // 
             // RuokalistaForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(228)))), ((int)(((byte)(228)))), ((int)(((byte)(228)))));
-            this.ClientSize = new System.Drawing.Size(786, 482);
-            this.Controls.Add(this.HerkutPL);
-            this.Controls.Add(this.RuoatPL);
+            this.ClientSize = new System.Drawing.Size(958, 558);
             this.Controls.Add(this.MeistaPL);
-            this.Controls.Add(this.KoriPL);
+            this.Controls.Add(this.RuoatPL);
             this.Controls.Add(this.JuomatPL);
+            this.Controls.Add(this.HerkutPL);
+            this.Controls.Add(this.KoriPL);
             this.Controls.Add(this.YlaPL);
             this.Controls.Add(this.VasenPL);
-            this.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "RuokalistaForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Kahvion ruokalista";
             this.Load += new System.EventHandler(this.RuokalistaForm_Load);
             this.VasenPL.ResumeLayout(false);

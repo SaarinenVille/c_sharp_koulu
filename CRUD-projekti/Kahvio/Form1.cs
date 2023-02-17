@@ -6,6 +6,10 @@ namespace Kahvio
         {
             InitializeComponent();
             MeistaPL.Visible = true;
+            RuoatPL.Visible = false;
+            JuomatPL.Visible = false;
+            HerkutPL.Visible = false;
+            KoriPL.Visible = false;
         }
 
         private void RuokalistaForm_Load(object sender, EventArgs e)
